@@ -26,7 +26,7 @@ The raw polling data is obtained with the help of the script
   <img src="Nh3.png?raw=true">
 </p>
 
-## 1. g3
+## 1. f3
 <p align="center">
   <img src="f3.png?raw=true">
 </p>
