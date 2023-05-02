@@ -70,5 +70,5 @@ def create_graph(prefix, length=4, cmap_name="tab20b"):
     plt.savefig(prefix + ".png", dpi=300)
 
 
-for move in [("g4",3), ("h4",8), ("Na3",18), ("Nh3",4), ("f3",20)]:
+for move in [("g4",2), ("h4",8), ("Na3",16), ("Nh3",4), ("f3",12)]:
     create_graph(*move) # , cmap_name="turbo")
