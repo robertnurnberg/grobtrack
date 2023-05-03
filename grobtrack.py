@@ -21,7 +21,7 @@ class polldata:
                 line = line.strip()
                 if line:
                     parts = line.split()
-                    if len(parts) < 4:
+                    if len(parts) < 4 or "error" in line:
                         continue
                     self.date.append(datetime.fromisoformat(parts[0][:-1]))
                     self.eval.append(int(parts[1][:-2]))
