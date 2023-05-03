@@ -17,74 +17,70 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 * [1. Nh3](#Nh3)
 * [1. f3](#f3)
 
+---
+
 ## <a id="g4"></a>1. g4
-| All time |
----
-| <img src="g4.png?raw=true"> |
----
-| Last 7 days |
----
-| <img src="g4week.png?raw=true"> |
----
-| Last 24 hours |
----
-| <img src="g4day.png?raw=true"> |
+
+### All time 
+<p align="center"> <img src="g4.png?raw=true"> </p>
+
+### Last 7 days 
+<p align="center"> <img src="g4week.png?raw=true"> </p>
+
+### Last 24 hours
+<p align="center"> <img src="g4day.png?raw=true"> </p>
+
 ---
 
 ## <a id="h4"></a>1. h4
-| All time |
----
-| <img src="h4.png?raw=true"> |
----
-| Last 7 days |
----
-| <img src="h4week.png?raw=true"> |
----
-| Last 24 hours |
----
-| <img src="h4day.png?raw=true"> |
+
+### All time 
+<p align="center"> <img src="h4.png?raw=true"> </p>
+
+### Last 7 days 
+<p align="center"> <img src="h4week.png?raw=true"> </p>
+
+### Last 24 hours
+<p align="center"> <img src="h4day.png?raw=true"> </p>
+
 ---
 
 ## <a id="Na3"></a>1. Na3
-| All time |
----
-| <img src="Na3.png?raw=true"> |
----
-| Last 7 days |
----
-| <img src="Na3week.png?raw=true"> |
----
-| Last 24 hours |
----
-| <img src="Na3day.png?raw=true"> |
+
+### All time 
+<p align="center"> <img src="Na3.png?raw=true"> </p>
+
+### Last 7 days 
+<p align="center"> <img src="Na3week.png?raw=true"> </p>
+
+### Last 24 hours
+<p align="center"> <img src="Na3day.png?raw=true"> </p>
+
 ---
 
 ## <a id="Nh3"></a>1. Nh3
-| All time |
----
-| <img src="Nh3.png?raw=true"> |
----
-| Last 7 days |
----
-| <img src="Nh3week.png?raw=true"> |
----
-| Last 24 hours |
----
-| <img src="Nh3day.png?raw=true"> |
----
 
+### All time 
+<p align="center"> <img src="Nh3.png?raw=true"> </p>
+
+### Last 7 days 
+<p align="center"> <img src="Nh3week.png?raw=true"> </p>
+
+### Last 24 hours
+<p align="center"> <img src="Nh3day.png?raw=true"> </p>
+
+---
 
 ## <a id="f3"></a>1. f3
-| All time |
----
-| <img src="f3.png?raw=true"> |
----
-| Last 7 days |
----
-| <img src="f3week.png?raw=true"> |
----
-| Last 24 hours |
----
-| <img src="f3day.png?raw=true"> |
+
+### All time 
+<p align="center"> <img src="f3.png?raw=true"> </p>
+
+### Last 7 days 
+<p align="center"> <img src="f3week.png?raw=true"> </p>
+
+### Last 24 hours
+<p align="center"> <img src="f3day.png?raw=true"> </p>
+
 ---
 
