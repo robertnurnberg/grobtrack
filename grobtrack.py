@@ -35,38 +35,44 @@ class polldata:
         print("depth: ", self.depth)
         print("pvs: ", self.pvs)
 
-    def create_graph(self, length=4, cmapName="tab20b"):
+    def create_graph_data(self, plotStart=0, pvLength=4):
         """
-        Create a plot of eval and depth over time, distinguishing different PVs
-        by using different colours. PVs are truncated to length to keep the
-        number of unique PVs under control.
-        Output: prefix.png file with the plot
+        Prepare (color) data needed for plots, distinguishing different PVs
+        by using different colors. PVs are truncated to pvLength to keep the
+        number of unique PVs under control. Return number of colors needed.
         """
-        col_id = []  # list of colour ids to use for eval data points
-        pv_color = {}  # dict that stores the color id used for each unique PV
-        number_of_colors = 0  # number of different PVs => colours needed
-        for pv in self.pvs:
-            pvString = " ".join(m for m in pv[:length])
-            if pvString not in pv_color:
-                pv_color[pvString] = number_of_colors
-                number_of_colors += 1
-            col_id.append(pv_color[pvString])
+        self.plotStart = plotStart # index to start plot from
+        self.pvLength = pvLength # length of truncated PVs
+        self.colorId = []  # list of color ids to use for eval data points
+        self.pvColor = {}  # dict that stores the color id used for each unique PV
+        numberOfColors = 0  # number of different PVs => colors needed
+        for pv in self.pvs[self.plotStart:]:
+            pvString = " ".join(m for m in pv[:pvLength])
+            if pvString not in self.pvColor:
+                self.pvColor[pvString] = numberOfColors
+                numberOfColors += 1
+            self.colorId.append(self.pvColor[pvString])
 
+    def create_graph(self, suffix="", cmapName="tab20b"):
+        # plot current graph data and save to file prefix.png 
+        date = self.date[self.plotStart:]
+        eval = self.eval[self.plotStart:]
+        depth = self.depth[self.plotStart:]
         fig, ax1 = plt.subplots()
         evalColor, dateColor, depthColor = "black", "black", "gray"
-        if len(self.date) >= 400:
+        if len(date) >= 400:
             evalDotSize = 10
             evalLineWidth, deptLineWidth = 0.5, 0.25
-        elif len(self.date) >= 200:
+        elif len(date) >= 200:
             evalDotSize = 20
             evalLineWidth, deptLineWidth = 1, 0.5
         else:
-            evalDotSize = 40
-            evalLineWidth, deptLineWidth = 2, 1
+            evalDotSize = 30
+            evalLineWidth, deptLineWidth = 1.5, 0.75
         ax1.set_ylabel("eval", color=evalColor)
-        cmap = cm.get_cmap(cmapName, number_of_colors)
-        scat = ax1.scatter(self.date, self.eval, c=col_id, s=evalDotSize, cmap=cmap)
-        ax1.plot(self.date, self.eval, color=dateColor, linewidth=evalLineWidth)
+        cmap = cm.get_cmap(cmapName, len(self.pvColor))
+        scat = ax1.scatter(date, eval, c=self.colorId, s=evalDotSize, cmap=cmap)
+        ax1.plot(date, eval, color=dateColor, linewidth=evalLineWidth)
         ax1.tick_params(axis="y", labelcolor=evalColor)
         ax1.xaxis.set_major_formatter(mdates.DateFormatter("%d/%m/%y"))
         plt.setp(
@@ -79,34 +85,43 @@ class polldata:
         ax2 = ax1.twinx()
         ax2.set_ylabel("depth", color=depthColor)
         ax2.plot(
-            self.date,
-            self.depth,
+            date,
+            depth,
             color=depthColor,
             linestyle="dashed",
             linewidth=deptLineWidth,
         )
         ax2.tick_params(axis="y", labelcolor=depthColor)
 
-        for i, pvString in enumerate(sorted(pv_color)):
-            top, stepsize, left = 1.12, 0.025, 0
-            if length >= 25:
-                left = -0.15
-            elif length >= 22:
-                left = -0.1
+        pvFontSize, moveWidth, maxLines = 6, 0.045, 5
+        top, stepsize, left, right = 1.12, 0.025, 0, 1
+        if self.pvLength >= 13:
+            pvMaxDisplay = maxLines # maximal number of PVs we can show above plot
+        else:
+            pvMaxDisplay = 2 * maxLines
+        textLength = self.pvLength if len(self.pvColor) <= maxLines else 2 * self.pvLength + 1
+        if textLength >= 25: # maximum to fit on screen with current font size
+            left = -0.15
+        elif textLength >= 22:
+            left = -0.1
+        for i, pvString in enumerate(sorted(self.pvColor)[:pvMaxDisplay]):
             ax1.text(
-                left,
-                top - stepsize * i,
+                left if i <= 4 else right - moveWidth * self.pvLength,
+                top - stepsize * (i % maxLines),
                 pvString,
-                color=cmap(pv_color[pvString]),
+                color=cmap(self.pvColor[pvString]),
                 transform=ax1.transAxes,
-                fontsize=6,
+                fontsize=pvFontSize,
                 family="monospace",
                 weight="bold",
             )
 
-        plt.savefig(self.prefix + ".png", dpi=300)
+        plt.savefig(self.prefix + suffix + ".png", dpi=300)
 
 
-for move in [("g4", 2), ("h4", 8), ("Na3", 16), ("Nh3", 4), ("f3", 12)]:
+for move in [("g4", 3), ("h4", 8), ("Na3", 16), ("Nh3", 4), ("f3", 25)]:
     data = polldata(move[0])
-    data.create_graph(move[1])
+    data.create_graph_data(plotStart=0, pvLength=move[1])
+    data.create_graph()
+    data.create_graph_data(plotStart=-168, pvLength=move[1])
+    data.create_graph(suffix="week")
