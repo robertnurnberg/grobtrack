@@ -11,15 +11,15 @@ in general differ slightly from the evaluation shown for the move in the start
 position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 ## Quick links
-* [1. g4](#g4)
-* [1. h4](#h4)
-* [1. Na3](#Na3)
-* [1. Nh3](#Nh3)
-* [1. f3](#f3)
+* [1. g4](#1-g4)
+* [1. h4](#1-h4)
+* [1. Na3](#1-Na3)
+* [1. Nh3](#1-Nh3)
+* [1. f3](#1-f3)
 
 ---
 
-## <a id="g4"></a>1. g4
+## 1. g4
 
 ### All time 
 <p align="center"> <img src="images/g4.png?raw=true"> </p>
@@ -32,7 +32,7 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 ---
 
-## <a id="h4"></a>1. h4
+## 1. h4
 
 ### All time 
 <p align="center"> <img src="images/h4.png?raw=true"> </p>
@@ -45,7 +45,7 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 ---
 
-## <a id="Na3"></a>1. Na3
+## 1. Na3
 
 ### All time 
 <p align="center"> <img src="images/Na3.png?raw=true"> </p>
@@ -58,7 +58,7 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 ---
 
-## <a id="Nh3"></a>1. Nh3
+## 1. Nh3
 
 ### All time 
 <p align="center"> <img src="images/Nh3.png?raw=true"> </p>
@@ -71,7 +71,7 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 ---
 
-## <a id="f3"></a>1. f3
+## 1. f3
 
 ### All time 
 <p align="center"> <img src="images/f3.png?raw=true"> </p>
