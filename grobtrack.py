@@ -61,7 +61,7 @@ class polldata:
                 break
             pvLength -= 1
 
-    def create_graph(self, suffix="", cmapName="tab20b"):
+    def create_graph(self, dir="", suffix="", cmapName="tab20b"):
         # plot current graph data and save to file prefix.png
         date = self.date[self.plotStart :]
         eval = self.eval[self.plotStart :]
@@ -130,14 +130,14 @@ class polldata:
                 weight="bold",
             )
 
-        plt.savefig(self.prefix + suffix + ".png", dpi=300)
+        plt.savefig(dir + self.prefix + suffix + ".png", dpi=300)
 
 
 for move in ["g4", "h4", "Na3", "Nh3", "f3"]:
     data = polldata(move)
     data.create_optimal_graph_data()
-    data.create_graph()
+    data.create_graph(dir="images/")
     data.create_optimal_graph_data(plotStart=-168)
-    data.create_graph(suffix="week")
+    data.create_graph(dir="images/", suffix="week")
     data.create_optimal_graph_data(plotStart=-24)
-    data.create_graph(suffix="day")
+    data.create_graph(dir="images/", suffix="day")
