@@ -14,7 +14,6 @@ class polldata:
         self.prefix = prefix
         self.date = []  # list of datetime entries
         self.eval = []  # list of cdb evals
-        self.depth = []  # list of PV depths
         self.pvs = []  # list of PVs themselves
         with open(prefix + ".poll") as f:
             for line in f:
@@ -25,14 +24,12 @@ class polldata:
                         continue
                     self.date.append(datetime.fromisoformat(parts[0][:-1]))
                     self.eval.append(int(parts[1][:-2]))
-                    self.depth.append(len(parts) - 3)
                     self.pvs.append(parts[3:])
 
     def showdata(self):
         print("prefix = ", self.prefix)
         print("date: ", self.date)
         print("eval: ", self.eval)
-        print("depth: ", self.depth)
         print("pvs: ", self.pvs)
 
     def find_uniquePVs(self, plotStart=0, pvLength=4):
@@ -57,7 +54,7 @@ class polldata:
         # plotdata from plotStart, using numberOfColors for truncated PVs
         date = self.date[self.plotStart :]
         eval = self.eval[self.plotStart :]
-        depth = self.depth[self.plotStart :]
+        depth = []  # list of PV depths
         pvColor = {}  # dict that stores the color id used for each unique PV
         for i, pvString in enumerate(sorted(self.uniquePVs)):
             pvColor[pvString] = i  # assign color id in alphabetical order
@@ -65,6 +62,7 @@ class polldata:
         for pv in self.pvs[self.plotStart :]:
             pvString = " ".join(m for m in pv[: self.pvLength])
             colorId.append(pvColor[pvString])
+            depth.append(len(pv))
 
         fig, ax1 = plt.subplots()
         evalColor, dateColor, depthColor = "black", "black", "gray"
@@ -82,13 +80,13 @@ class polldata:
         scat = ax1.scatter(date, eval, c=colorId, s=evalDotSize, cmap=cmap)
         ax1.plot(date, eval, color=dateColor, linewidth=evalLineWidth)
         ax1.tick_params(axis="y", labelcolor=evalColor)
-        ax1.xaxis.set_major_formatter(mdates.DateFormatter("%d/%m/%y"))
+        ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
         plt.setp(
             ax1.get_xticklabels(),
             rotation=45,
             ha="right",
             rotation_mode="anchor",
-            fontsize=7,
+            fontsize=6,
         )
         ax2 = ax1.twinx()
         ax2.set_ylabel("depth", color=depthColor)
