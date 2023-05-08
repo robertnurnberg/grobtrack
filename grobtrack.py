@@ -99,8 +99,8 @@ class polldata:
         )
         ax2.tick_params(axis="y", labelcolor=depthColor)
 
-        pvFontSize, moveWidth, maxLines = 6, 0.049, 5
-        top, stepsize, left, right = 1.12, 0.025, 0, 1
+        pvFontSize, moveWidth, maxLines = 6, 0.05, 5
+        top, stepsize, left, right = 1.12, 0.025, 0, 1.002
         if self.pvLength >= 13:
             pvMaxDisplay = maxLines  # maximal number of PVs we can show above plot
         else:
@@ -111,9 +111,8 @@ class polldata:
         if textLength > 20:
             if textLength >= 25:  # maximum to fit on screen with current font size
                 textLength = 25
-            offset = 0.55 * moveWidth * (textLength - 20)
-            left -= offset
-            right += offset
+            left -= 0.55 * moveWidth * (textLength - 20)
+            right += 0.5 * moveWidth * (textLength - 20)
 
         for i, pvString in enumerate(sorted(self.uniquePVs)[:pvMaxDisplay]):
             ax1.text(
