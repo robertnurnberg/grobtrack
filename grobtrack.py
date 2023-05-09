@@ -66,7 +66,10 @@ class polldata:
 
         fig, ax1 = plt.subplots()
         evalColor, dateColor, depthColor = "black", "black", "gray"
-        if len(date) >= 400:
+        if len(date) >= 600:
+            evalDotSize = 5
+            evalLineWidth, deptLineWidth = 0.25, 0.125
+        elif len(date) >= 400:
             evalDotSize = 10
             evalLineWidth, deptLineWidth = 0.5, 0.25
         elif len(date) >= 200:
