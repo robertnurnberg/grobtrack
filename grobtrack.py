@@ -5,6 +5,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.cm as cm
+from matplotlib.ticker import MaxNLocator
 from datetime import datetime
 
 
@@ -83,6 +84,7 @@ class polldata:
         scat = ax1.scatter(date, eval, c=colorId, s=evalDotSize, cmap=cmap)
         ax1.plot(date, eval, color=dateColor, linewidth=evalLineWidth)
         ax1.tick_params(axis="y", labelcolor=evalColor)
+        ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
         ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
         plt.setp(
             ax1.get_xticklabels(),
@@ -101,6 +103,7 @@ class polldata:
             linewidth=deptLineWidth,
         )
         ax2.tick_params(axis="y", labelcolor=depthColor)
+        ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
 
         pvFontSize, moveWidth, maxLines = 6, 0.05, 5
         top, stepsize, left, right = 1.12, 0.025, 0, 1.002
