@@ -67,9 +67,12 @@ class polldata:
 
         fig, ax1 = plt.subplots()
         evalColor, dateColor, depthColor = "black", "black", "gray"
-        if len(date) >= 600:
-            evalDotSize = 5
-            evalLineWidth, deptLineWidth = 0.25, 0.125
+        if len(date) >= 800:
+            evalDotSize, depthDotSize = 3, 0.01
+            evalLineWidth, deptLineWidth = 0.1, 0
+        elif len(date) >= 600:
+            evalDotSize, depthDotSize = 5, 0.05
+            evalLineWidth, deptLineWidth = 0.25, 0
         elif len(date) >= 400:
             evalDotSize = 10
             evalLineWidth, deptLineWidth = 0.5, 0.25
@@ -77,7 +80,7 @@ class polldata:
             evalDotSize = 20
             evalLineWidth, deptLineWidth = 1, 0.5
         else:
-            evalDotSize = 30
+            evalDotSize = 40
             evalLineWidth, deptLineWidth = 1.5, 0.75
         ax1.set_ylabel("eval", color=evalColor)
         cmap = cm.get_cmap(cmapName, len(self.uniquePVs))
@@ -95,13 +98,16 @@ class polldata:
         )
         ax2 = ax1.twinx()
         ax2.set_ylabel("depth", color=depthColor)
-        ax2.plot(
-            date,
-            depth,
-            color=depthColor,
-            linestyle="dashed",
-            linewidth=deptLineWidth,
-        )
+        if deptLineWidth:
+            ax2.plot(
+                date,
+                depth,
+                color=depthColor,
+                linestyle="dashed",
+                linewidth=deptLineWidth,
+            )
+        else:
+            ax2.scatter(date, depth, color=depthColor, s=depthDotSize)
         ax2.tick_params(axis="y", labelcolor=depthColor)
         ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
 
