@@ -17,6 +17,11 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 * [1. Nh3](#1-Nh3)
 * [1. f3](#1-f3)
 
+<font size=1>
+For past version changes of the cdb worker check
+<a href = https://github.com/noobpwnftw/Stockfish/commits/siever>here</a>.
+</font>
+
 ---
 
 ## 1. g4
