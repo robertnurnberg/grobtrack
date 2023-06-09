@@ -83,7 +83,6 @@ cd ..
 
 python3 plotwdl.py
 
-# do this in a loop: also *sfpvs.epd
 for m in g4 h4 Na3 Nh3 f3
 do
   git add images/"$m"wdl.png images/"$m"m6wdl.png
@@ -95,11 +94,18 @@ git push origin main >& pushwdl.log
 
 echo "wdl stuff ended at: " `date`
 
-echo "Finally, starting shallow cdbsearches along all of SF's found PVs ..."
-for m in g4 h4 Na3 Nh3 f3
-do
-  python3 ../cdbexplore/cdbbulksearch.py wdl/"$m"_sfpvs.epd --shuffle --bulkConcurrency 48 --concurrency 64 --depthLimit 1 --evalDecay 0 --user rob >& "$m"_cdbbulk.log
-  python3 ../cdbexplore/cdbbulksearch.py wdl/"$m"m6_sfpvs.epd --shuffle --bulkConcurrency 48 --concurrency 64 --depthLimit 1 --evalDecay 0 --user rob >& "$m"m6_cdbbulk.log
-done
+if [[ $wdls -gt 0 ]]; then
+  echo "Finally, starting shallow cdbsearches along all of SF's newly found PVs ..."
+  cd wdl
+  echo -n "" > cdbbulk.epd
+  for m in g4 h4 Na3 Nh3 f3
+  do
+    tail "$m"_sfpvs.epd -n "$wdls" >> cdbbulk.epd
+    tail "$m"m6_sfpvs.epd -n "$wdls" >> cdbbulk.epd
+  done
 
-echo "ended at: " `date`
+  python3 ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --shuffle --bulkConcurrency 48 --concurrency 64 --depthLimit 1 --evalDecay 0 --user rob >& cdbbulk.log
+
+  cd ..
+  echo "ended at: " `date`
+fi
