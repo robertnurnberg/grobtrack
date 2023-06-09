@@ -35,6 +35,12 @@ For past version changes of the cdb worker check
 ### Last 24 hours
 <p align="center"> <img src="images/g4day.png?raw=true"> </p>
 
+### Stockfish WDL evaluations for leaf positions in cdb's PVs
+<p align="center"> <img src="images/g4wdl.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for positions 6 plies from leafs of cdb's PVs
+<p align="center"> <img src="images/g4m6wdl.png?raw=true"> </p>
+
 ---
 
 ## 1. h4
@@ -47,6 +53,12 @@ For past version changes of the cdb worker check
 
 ### Last 24 hours
 <p align="center"> <img src="images/h4day.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for leaf positions in cdb's PVs
+<p align="center"> <img src="images/h4wdl.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for positions 6 plies from leafs of cdb's PVs
+<p align="center"> <img src="images/h4m6wdl.png?raw=true"> </p>
 
 ---
 
@@ -61,6 +73,12 @@ For past version changes of the cdb worker check
 ### Last 24 hours
 <p align="center"> <img src="images/Na3day.png?raw=true"> </p>
 
+### Stockfish WDL evaluations for leaf positions in cdb's PVs
+<p align="center"> <img src="images/Na3wdl.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for positions 6 plies from leafs of cdb's PVs
+<p align="center"> <img src="images/Na3m6wdl.png?raw=true"> </p>
+
 ---
 
 ## 1. Nh3
@@ -74,6 +92,12 @@ For past version changes of the cdb worker check
 ### Last 24 hours
 <p align="center"> <img src="images/Nh3day.png?raw=true"> </p>
 
+### Stockfish WDL evaluations for leaf positions in cdb's PVs
+<p align="center"> <img src="images/Nh3wdl.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for positions 6 plies from leafs of cdb's PVs
+<p align="center"> <img src="images/Nh3m6wdl.png?raw=true"> </p>
+
 ---
 
 ## 1. f3
@@ -86,6 +110,12 @@ For past version changes of the cdb worker check
 
 ### Last 24 hours
 <p align="center"> <img src="images/f3day.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for leaf positions in cdb's PVs
+<p align="center"> <img src="images/f3wdl.png?raw=true"> </p>
+
+### Stockfish WDL evaluations for positions 6 plies from leafs of cdb's PVs
+<p align="center"> <img src="images/f3m6wdl.png?raw=true"> </p>
 
 ---
 
