@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for f in g4.poll h4.poll Na3.poll Nh3.poll f3.poll 
+for m in g4 h4 Na3 Nh3 f3
 do
- sed '/error/d' ./polling/"$f" > "$f"
+  sed '/error/d' ./polling/"$m".poll > "$m".poll
 done
