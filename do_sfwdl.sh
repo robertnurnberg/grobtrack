@@ -91,8 +91,7 @@ do
 done
 
 git diff --staged --quiet || git commit -m "update wdl data and plots"
-# git push origin main >& pushwdl.log
-git push >& pushwdl.log
+git push origin main >& pushwdl.log
 
 echo "wdl stuff ended at: " `date`
 

@@ -9,7 +9,6 @@ do
 done
 
 git diff --staged --quiet || git commit -m "update poll data and plots"
-# git push origin main >& push.log
-git push >& push.log
+git push origin main >& push.log
 
 ./do_sfwdl.sh >& sfwdl.log
