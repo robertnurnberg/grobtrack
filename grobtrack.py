@@ -10,13 +10,13 @@ from datetime import datetime
 
 
 class polldata:
-    def __init__(self, prefix):
-        # Load eval, depth and PV data from the file prefix.poll
-        self.prefix = prefix
+    def __init__(self, move):
+        # Load eval, depth and PV data from the file move.poll
+        self.move = move
         self.date = []  # list of datetime entries
         self.eval = []  # list of cdb evals
         self.pvs = []  # list of PVs themselves
-        with open(prefix + ".poll") as f:
+        with open(move + ".poll") as f:
             for line in f:
                 line = line.strip()
                 if line:
@@ -28,7 +28,7 @@ class polldata:
                     self.pvs.append(parts[3:])
 
     def showdata(self):
-        print("prefix = ", self.prefix)
+        print("move = ", self.move)
         print("date: ", self.date)
         print("eval: ", self.eval)
         print("pvs: ", self.pvs)
@@ -142,7 +142,9 @@ class polldata:
                 weight="bold",
             )
 
-        plt.savefig(dir + self.prefix + suffix + ".png", dpi=300)
+        ax1.plot([], [], " ", label=f"1. {self.move}")
+        ax1.legend(handletextpad=0, handlelength=0)
+        plt.savefig(dir + self.move + suffix + ".png", dpi=300)
 
 
 for move in ["g4", "h4", "Na3", "Nh3", "f3"]:
