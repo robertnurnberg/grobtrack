@@ -9,18 +9,27 @@ class wdldata:
     def __init__(self, prefix, dir=""):
         # Load d data from the file prefix.wdl
         self.prefix = prefix
-        self.d = []
+        self.wl = []
         with open(dir + prefix + ".wdl") as f:
             for line in f:
-                self.d.append(1000 - int(line.split()[1]))
+                self.wl.append(1000 - int(line.split()[1]))
 
     def create_graph(self, dir=""):
-        dweek = self.d[-168:]
+        dweek = self.wl[-168:]
+        rangeMin, rangeMax = 0, 1000
+        if min(self.wl) >= 800:
+            rangeMin = 800
+        elif min(self.wl) >= 500:
+            rangeMin = 500
+        if max(self.wl) <= 200:
+            rangeMax = 200
+        elif max(self.wl) <= 500:
+            rangeMax = 500
         fig, ax = plt.subplots()
         ax.hist(
             dweek,
-            range=(0, 1000),
-            bins=100,
+            range=(rangeMin, rangeMax),
+            bins=(rangeMax - rangeMin) // 10,
             density=True,
             alpha=0.5,
             color="blue",
@@ -28,9 +37,9 @@ class wdldata:
             label="last 7 days",
         )
         ax.hist(
-            self.d,
-            range=(0, 1000),
-            bins=100,
+            self.wl,
+            range=(rangeMin, rangeMax),
+            bins=(rangeMax - rangeMin) // 10,
             density=True,
             alpha=0.5,
             color="red",
@@ -45,9 +54,9 @@ class wdldata:
             fontsize=6,
             family="monospace",
         )
-        xt = list(range(0, 1001, 200))
+        xt = list(range(rangeMin, rangeMax + 1, (rangeMax - rangeMin) // 5))
         xtl = [str(x // 10) for x in xt]
-        mmmm = [min(self.d), max(self.d), min(dweek), max(dweek)]
+        mmmm = [min(self.wl), max(self.wl), min(dweek), max(dweek)]
         for m in mmmm:
             if m not in xt:
                 xt.append(m)
