@@ -82,10 +82,11 @@ done
 cd ..
 
 python3 plotwdl.py
+python3 plotrolling.py
 
 for m in g4 h4 Na3 Nh3 f3
 do
-  git add images/"$m"wdl.png images/"$m"m6wdl.png
+  git add images/"$m"wdl.png images/"$m"m6wdl.png images/"$m"rolling.png
   git add wdl/"$m".wdl wdl/"$m"m6.wdl wdl/"$m"_sfpvs.epd wdl/"$m"m6_sfpvs.epd
 done
 

@@ -36,13 +36,16 @@ For past version changes of the cdb worker check
 
 ## 1. g4
 
-### cdb's eval: All time 
+### Rolling weekly average of cdb's eval and SF's d28 WDL
+<p align="center"> <img src="images/g4rolling.png?raw=true"> </p>
+
+### cdb's eval and PV: All time 
 <p align="center"> <img src="images/g4.png?raw=true"> </p>
 
-### cdb's eval: Last 7 days 
+### cdb's eval and PV: Last 7 days 
 <p align="center"> <img src="images/g4week.png?raw=true"> </p>
 
-### cdb's eval: Last 24 hours
+### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/g4day.png?raw=true"> </p>
 
 ### SF's d28 WDL: Leafs in cdb's PVs
@@ -55,13 +58,16 @@ For past version changes of the cdb worker check
 
 ## 1. h4
 
-### cdb's eval: All time 
+### Rolling weekly average of cdb's eval and SF's d28 WDL
+<p align="center"> <img src="images/h4rolling.png?raw=true"> </p>
+
+### cdb's eval and PV: All time 
 <p align="center"> <img src="images/h4.png?raw=true"> </p>
 
-### cdb's eval: Last 7 days 
+### cdb's eval and PV: Last 7 days 
 <p align="center"> <img src="images/h4week.png?raw=true"> </p>
 
-### cdb's eval: Last 24 hours
+### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/h4day.png?raw=true"> </p>
 
 ### SF's d28 WDL: Leafs in cdb's PVs
@@ -74,13 +80,16 @@ For past version changes of the cdb worker check
 
 ## 1. Na3
 
-### cdb's eval: All time 
+### Rolling weekly average of cdb's eval and SF's d28 WDL
+<p align="center"> <img src="images/Na3rolling.png?raw=true"> </p>
+
+### cdb's eval and PV: All time 
 <p align="center"> <img src="images/Na3.png?raw=true"> </p>
 
-### cdb's eval: Last 7 days 
+### cdb's eval and PV: Last 7 days 
 <p align="center"> <img src="images/Na3week.png?raw=true"> </p>
 
-### cdb's eval: Last 24 hours
+### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/Na3day.png?raw=true"> </p>
 
 ### SF's d28 WDL: Leafs in cdb's PVs
@@ -93,13 +102,16 @@ For past version changes of the cdb worker check
 
 ## 1. Nh3
 
-### cdb's eval: All time 
+### Rolling weekly average of cdb's eval and SF's d28 WDL
+<p align="center"> <img src="images/Nh3rolling.png?raw=true"> </p>
+
+### cdb's eval and PV: All time 
 <p align="center"> <img src="images/Nh3.png?raw=true"> </p>
 
-### cdb's eval: Last 7 days 
+### cdb's eval and PV: Last 7 days 
 <p align="center"> <img src="images/Nh3week.png?raw=true"> </p>
 
-### cdb's eval: Last 24 hours
+### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/Nh3day.png?raw=true"> </p>
 
 ### SF's d28 WDL: Leafs in cdb's PVs
@@ -112,13 +124,16 @@ For past version changes of the cdb worker check
 
 ## 1. f3
 
-### cdb's eval: All time 
+### Rolling weekly average of cdb's eval and SF's d28 WDL
+<p align="center"> <img src="images/f3rolling.png?raw=true"> </p>
+
+### cdb's eval and PV: All time 
 <p align="center"> <img src="images/f3.png?raw=true"> </p>
 
-### cdb's eval: Last 7 days 
+### cdb's eval and PV: Last 7 days 
 <p align="center"> <img src="images/f3week.png?raw=true"> </p>
 
-### cdb's eval: Last 24 hours
+### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/f3day.png?raw=true"> </p>
 
 ### SF's d28 WDL: Leafs in cdb's PVs
