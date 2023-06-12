@@ -3,11 +3,15 @@
 # we exit immediately if any command exits with a non-zero status
 set -e
 
+if [[ ! -e wdl ]]; then
+  mkdir wdl
+fi
+
 echo "started at: " `date`
 
-# clone SF if needed
+# clone noob's SF fork if needed
 if [[ ! -e Stockfish ]]; then
-   git clone https://github.com/official-stockfish/Stockfish.git
+   git clone https://github.com/noobpwnftw/Stockfish.git
 fi
 
 # check for new commits and pull if needed

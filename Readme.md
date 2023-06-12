@@ -11,7 +11,7 @@ in general differ slightly from the evaluation shown for the move in the start
 position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 The polling data and plots are updated daily. In addition, we use 
-[Stockfish](https://github.com/official-stockfish/Stockfish)'s WDL evaluations
+[Stockfish](https://github.com/noobpwnftw/Stockfish)'s WDL evaluations
 of cdb's PV leafs, and the positions 6 plies from the end of the PVs, to
 monitor cdb's progress in exploring and evaluating 1. g4 (and the other four
 moves). These evaluations are performed daily for the newly aquired polling
