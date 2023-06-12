@@ -1,5 +1,9 @@
 #!/bin/bash
 
+if [[ ! -e images ]]; then
+  mkdir images
+fi
+
 python3 grobtrack.py
 
 for m in g4 h4 Na3 Nh3 f3
