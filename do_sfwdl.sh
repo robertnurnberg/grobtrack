@@ -30,6 +30,9 @@ if [[ ! -e stockfish ]]; then
   echo "Make a new profile-build ... "
   make -j ARCH=x86-64-modern profile-build >& make.log
 fi
+sfversion=`./stockfish quit | sed "s/Stockfish //" | sed "s/ by.*//"`
+bench="1024 16 28"
+echo "Will use \"bench $bench .epd depth NNUE\" w/ $sfversion."
 cd ../../wdl
 
 for m in g4 h4 Na3 Nh3 f3
@@ -58,9 +61,9 @@ do
   if [[ $wdls -gt 0 ]]; then
     echo "Computing the missing $wdls wdl values ..."
     cat ../"$m".poll | sed '/^$/d' | cut -d'-' -f5- | cut -c2- | tail -n $wdls | awk -v uci="$uci" '{print "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves",uci,$0}' > "$m".epd
-    printf "setoption name UCI_ShowWDL value true\nbench 1024 16 28 %s.epd depth NNUE\n" "$m" | ../Stockfish/src/stockfish >& "$m"_sf.out
+    printf "setoption name UCI_ShowWDL value true\nbench %s %s.epd depth NNUE\n" "$bench" "$m" | ../Stockfish/src/stockfish >& "$m"_sf.out
     # save WDL output forever
-    cat "$m"_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' >> "$m".wdl
+    cat "$m"_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' | sed 's/$/  /' | sed 's/.\{11\}/& # bench '"$bench"' .epd depth NNUE w\/ '"$sfversion"'/' | sed 's/ *$//' >> "$m".wdl
     # save SF's last depth PV forever
     cat "$m"_sf.out | grep -B1 bestmove | grep -o ' pv [a-z0-9 ]*' | sed 's/pv//' > "$m".pvs && paste -d "" "$m".epd "$m".pvs >> "$m"_sfpvs.epd
   fi
@@ -75,9 +78,9 @@ do
   if [[ $wdls -gt 0 ]]; then
     echo "Computing the missing $wdls wdl m6 values ..."
     cat ../"$m".poll | sed '/^$/d' | cut -d'-' -f5- | cut -c2- | awk '{for(i=1;i<=NF-6;i++) {printf(" %s",$i)}; printf("\n")}' | tail -n $wdls | awk -v uci="$uci" '{print "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves",uci,$0}' > "$m"m6.epd
-    printf "setoption name UCI_ShowWDL value true\nbench 1024 16 28 %sm6.epd depth NNUE\n" "$m" | ../Stockfish/src/stockfish >& "$m"m6_sf.out
+    printf "setoption name UCI_ShowWDL value true\nbench %s %sm6.epd depth NNUE\n" "$bench" "$m" | ../Stockfish/src/stockfish >& "$m"m6_sf.out
     # save WDL output forever
-    cat "$m"m6_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' >> "$m"m6.wdl
+    cat "$m"m6_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' | sed 's/$/  /' | sed 's/.\{11\}/& # bench '"$bench"' .epd depth NNUE w\/ '"$sfversion"'/' | sed 's/ *$//' >> "$m"m6.wdl
     # save SF's last depth PV forever
     cat "$m"m6_sf.out | grep -B1 bestmove | grep -o ' pv [a-z0-9 ]*' | sed 's/pv//' > "$m"m6.pvs && paste -d "" "$m"m6.epd "$m"m6.pvs >> "$m"m6_sfpvs.epd
   fi
