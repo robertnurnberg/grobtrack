@@ -13,6 +13,8 @@ class wdldata:
         with open(dir + prefix + ".wdl") as f:
             for line in f:
                 self.wl.append(1000 - int(line.split()[1]))
+                _, _, self.bench = line.partition("bench ")
+                self.bench, _, _ = self.bench.partition(" .epd")
 
     def create_graph(self, dir=""):
         dweek = self.wl[-168:]
@@ -50,7 +52,7 @@ class wdldata:
         move, _, ply = self.prefix.partition("m")
         fig.suptitle(f"Distribution of W+L likelihood for 1. {move}")
         ax.set_title(
-            f'(WDL data obtained by "stockfish bench 1024 16 28 {self.prefix}.epd depth NNUE" on {"leaf positions" if ply == "" else f"positions {ply} plies from leafs"} in {move}.poll)',
+            f'(WDL data obtained by "stockfish bench {self.bench} {self.prefix}.epd depth NNUE" on {"leaf positions" if ply == "" else f"positions {ply} plies from leafs"} in {move}.poll)',
             fontsize=6,
             family="monospace",
         )
