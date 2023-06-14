@@ -1171,3 +1171,27 @@
 10 987 3 
 3 991 6 
 8 990 2 
+1 980 19    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+7 991 2
+1 986 13    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+4 992 4
+3 992 5
+4 992 4
+3 992 5
+4 992 4
+4 992 4
+51 949 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+48 952 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
