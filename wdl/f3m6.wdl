@@ -1,1461 +1,1461 @@
-0 920 80 
-1 978 21 
-11 987 2 
-19 980 1 
-0 962 38 
-0 961 39 
-57 943 0 
-24 975 1 
-0 954 46 
-12 987 1 
-1 976 23 
-1 978 21 
-14 985 1 
-44 956 0 
-78 922 0 
-8 990 2 
-1 971 28 
-1 969 30 
-25 974 1 
-27 972 1 
-36 964 0 
-33 966 1 
-0 960 40 
-0 926 74 
-51 949 0 
-1 977 22 
-1 980 19 
-1 981 18 
-1 979 20 
-1 985 14 
-1 985 14 
-0 947 53 
-18 981 1 
-15 984 1 
-18 981 1 
-19 980 1 
-16 983 1 
-91 909 0 
-35 965 0 
-96 904 0 
-66 934 0 
-1 975 24 
-62 938 0 
-50 950 0 
-16 983 1 
-0 943 57 
-0 968 32 
-15 984 1 
-16 983 1 
-1 978 21 
-18 981 1 
-0 916 84 
-1 955 44 
-21 978 1 
-1 977 22 
-1 977 22 
-33 966 1 
-32 967 1 
-1 968 31 
-42 957 1 
-1 959 40 
-44 956 0 
-1 975 24 
-1 962 37 
-1 973 26 
-72 928 0 
-25 974 1 
-1 954 45 
-0 946 54 
-23 976 1 
-47 953 0 
-45 955 0 
-0 954 46 
-23 976 1 
-52 948 0 
-1 984 15 
-1 984 15 
-1 971 28 
-0 929 71 
-0 935 65 
-0 868 132 
-42 958 0 
-1 968 31 
-1 983 16 
-0 957 43 
-0 963 37 
-31 968 1 
-1 975 24 
-31 968 1 
-49 951 0 
-30 969 1 
-1 980 19 
-30 969 1 
-0 952 48 
-50 950 0 
-1 979 20 
-36 964 0 
-28 971 1 
-46 954 0 
-55 945 0 
-43 957 0 
-1 974 25 
-1 980 19 
-25 974 1 
-33 967 0 
-39 961 0 
-34 966 0 
-1 978 21 
-1 984 15 
-1 980 19 
-1 966 33 
-13 985 2 
-1 987 12 
-1 978 21 
-1 969 30 
-13 985 2 
-1 984 15 
-12 986 2 
-16 983 1 
-17 982 1 
-0 664 336 
-63 937 0 
-0 924 76 
-72 928 0 
-71 929 0 
-0 885 115 
-92 908 0 
-0 944 56 
-0 854 146 
-0 943 57 
-80 920 0 
-94 906 0 
-57 943 0 
-65 935 0 
-0 905 95 
-0 929 71 
-44 956 0 
-19 980 1 
-2 986 12 
-16 983 1 
-160 840 0 
-79 921 0 
-111 889 0 
-75 925 0 
-0 944 56 
-68 932 0 
-0 904 96 
-0 962 38 
-1 974 25 
-77 923 0 
-68 932 0 
-70 930 0 
-70 930 0 
-135 865 0 
-128 872 0 
-0 888 112 
-76 924 0 
-0 898 102 
-67 933 0 
-153 847 0 
-38 962 0 
-0 777 223 
-0 939 61 
-40 960 0 
-1 980 19 
-104 896 0 
-59 941 0 
-0 879 121 
-76 924 0 
-0 936 64 
-258 742 0 
-0 801 199 
-303 697 0 
-263 737 0 
-0 815 185 
-0 922 78 
-207 793 0 
-0 919 81 
-83 917 0 
-158 842 0 
-241 759 0 
-97 903 0 
-0 915 85 
-130 870 0 
-113 887 0 
-0 884 116 
-126 874 0 
-70 930 0 
-66 934 0 
-67 933 0 
-66 934 0 
-55 945 0 
-51 949 0 
-13 986 1 
-23 976 1 
-14 985 1 
-18 981 1 
-54 946 0 
-54 946 0 
-57 943 0 
-0 946 54 
-0 946 54 
-0 968 32 
-0 946 54 
-137 863 0 
-0 943 57 
-0 960 40 
-0 964 36 
-0 959 41 
-0 963 37 
-0 961 39 
-0 940 60 
-0 947 53 
-0 967 33 
-0 953 47 
-43 957 0 
-50 950 0 
-87 913 0 
-49 951 0 
-122 878 0 
-66 934 0 
-68 932 0 
-41 959 0 
-79 921 0 
-55 945 0 
-60 940 0 
-56 944 0 
-45 955 0 
-0 945 55 
-0 945 55 
-0 945 55 
-0 945 55 
-0 945 55 
-0 941 59 
-0 945 55 
-0 938 62 
-0 945 55 
-0 944 56 
-0 945 55 
-0 909 91 
-0 963 37 
-260 740 0 
-151 849 0 
-109 891 0 
-108 892 0 
-119 881 0 
-85 915 0 
-94 906 0 
-83 917 0 
-68 932 0 
-0 924 76 
-63 937 0 
-0 953 47 
-32 967 1 
-55 945 0 
-28 971 1 
-43 957 0 
-54 946 0 
-72 928 0 
-38 962 0 
-53 947 0 
-29 970 1 
-45 955 0 
-54 946 0 
-54 946 0 
-0 828 172 
-0 723 277 
-0 844 156 
-0 899 101 
-0 914 86 
-0 914 86 
-0 914 86 
-106 894 0 
-93 907 0 
-103 897 0 
-120 880 0 
-117 883 0 
-127 873 0 
-131 869 0 
-135 865 0 
-94 906 0 
-112 888 0 
-131 869 0 
-135 865 0 
-107 893 0 
-127 873 0 
-133 867 0 
-110 890 0 
-94 906 0 
-0 841 159 
-125 875 0 
-56 944 0 
-0 927 73 
-1 972 27 
-63 937 0 
-1 978 21 
-1 975 24 
-79 921 0 
-28 971 1 
-37 963 0 
-1 971 28 
-118 882 0 
-1 978 21 
-38 962 0 
-1 979 20 
-44 956 0 
-1 979 20 
-33 966 1 
-1 979 20 
-15 984 1 
-31 968 1 
-84 916 0 
-1 983 16 
-0 935 65 
-0 891 109 
-93 907 0 
-62 938 0 
-59 941 0 
-1 969 30 
-0 941 59 
-1 983 16 
-1 986 13 
-2 985 13 
-14 985 1 
-0 941 59 
-0 941 59 
-1 981 18 
-0 938 62 
-0 941 59 
-1 979 20 
-19 980 1 
-0 941 59 
-14 985 1 
-0 941 59 
-0 941 59 
-0 965 35 
-49 951 0 
-63 937 0 
-82 918 0 
-58 942 0 
-43 957 0 
-55 945 0 
-33 966 1 
-23 976 1 
-54 946 0 
-37 963 0 
-0 956 44 
-12 987 1 
-11 987 2 
-32 967 1 
-37 963 0 
-11 987 2 
-12 986 2 
-12 986 2 
-11 987 2 
-13 986 1 
-12 986 2 
-0 966 34 
-0 963 37 
-13 985 2 
-21 978 1 
-20 979 1 
-27 972 1 
-24 975 1 
-29 970 1 
-12 986 2 
-0 952 48 
-12 987 1 
-88 912 0 
-12 986 2 
-74 926 0 
-12 986 2 
-11 987 2 
-54 946 0 
-12 986 2 
-26 973 1 
-34 966 0 
-26 973 1 
-39 961 0 
-27 972 1 
-55 945 0 
-36 964 0 
-27 972 1 
-25 974 1 
-13 986 1 
-25 974 1 
-39 961 0 
-81 919 0 
-2 987 11 
-13 986 1 
-29 970 1 
-1 968 31 
-34 966 0 
-0 932 68 
-1 978 21 
-1 975 24 
-33 966 1 
-27 972 1 
-12 987 1 
-23 976 1 
-35 965 0 
-1 976 23 
-37 963 0 
-8 990 2 
-1 987 12 
-12 987 1 
-1 985 14 
-1 979 20 
-27 972 1 
-1 976 23 
-0 961 39 
-3 991 6 
-3 991 6 
-2 985 13 
-28 971 1 
-1 971 28 
-1 970 29 
-0 962 38 
-1 972 27 
-13 985 2 
-0 908 92 
-2 988 10 
-40 960 0 
-0 957 43 
-32 967 1 
-26 973 1 
-1 968 31 
-31 968 1 
-45 955 0 
-34 966 0 
-1 983 16 
-1 977 22 
-32 967 1 
-78 922 0 
-23 976 1 
-34 965 1 
-88 912 0 
-40 960 0 
-0 966 34 
-0 912 88 
-56 944 0 
-43 957 0 
-0 919 81 
-2 986 12 
-28 971 1 
-78 922 0 
-0 943 57 
-0 947 53 
-0 956 44 
-0 917 83 
-32 967 1 
-40 960 0 
-0 912 88 
-55 945 0 
-43 957 0 
-38 962 0 
-0 958 42 
-0 968 32 
-89 911 0 
-55 945 0 
-1 967 32 
-21 978 1 
-181 819 0 
-39 961 0 
-47 953 0 
-39 961 0 
-1 963 36 
-35 965 0 
-1 966 33 
-90 910 0 
-95 905 0 
-97 903 0 
-94 906 0 
-97 903 0 
-99 901 0 
-107 893 0 
-100 900 0 
-92 908 0 
-90 910 0 
-94 906 0 
-1 964 35 
-0 894 106 
-21 978 1 
-23 976 1 
-103 897 0 
-0 932 68 
-17 982 1 
-17 982 1 
-0 957 43 
-18 981 1 
-17 982 1 
-0 930 70 
-1 979 20 
-0 966 34 
-0 949 51 
-72 928 0 
-1 982 17 
-0 934 66 
-1 983 16 
-0 913 87 
-15 984 1 
-1 986 13 
-0 905 95 
-22 977 1 
-0 925 75 
-0 943 57 
-18 980 2 
-17 981 2 
-16 983 1 
-0 936 64 
-0 950 50 
-19 980 1 
-15 984 1 
-0 950 50 
-17 982 1 
-16 983 1 
-1 980 19 
-0 936 64 
-0 935 65 
-1 981 18 
-1 980 19 
-19 980 1 
-1 984 15 
-17 982 1 
-80 920 0 
-16 983 1 
-52 948 0 
-17 982 1 
-21 978 1 
-23 976 1 
-32 967 1 
-1 972 27 
-24 975 1 
-27 972 1 
-29 970 1 
-30 969 1 
-95 905 0 
-0 929 71 
-104 896 0 
-1 980 19 
-101 899 0 
-109 891 0 
-31 968 1 
-33 966 1 
-21 978 1 
-20 979 1 
-23 976 1 
-77 923 0 
-0 943 57 
-24 975 1 
-28 971 1 
-23 976 1 
-18 981 1 
-1 968 31 
-30 969 1 
-79 921 0 
-32 967 1 
-46 954 0 
-0 944 56 
-1 976 23 
-1 965 34 
-176 824 0 
-230 770 0 
-200 800 0 
-0 826 174 
-0 883 117 
-27 972 1 
-1 975 24 
-0 936 64 
-0 956 44 
-0 892 108 
-73 927 0 
-11 987 2 
-0 929 71 
-1 954 45 
-69 931 0 
-2 987 11 
-1 966 33 
-2 989 9 
-33 966 1 
-21 978 1 
-2 990 8 
-156 844 0 
-3 990 7 
-176 824 0 
-0 964 36 
-0 945 55 
-1 962 37 
-73 927 0 
-28 971 1 
-0 926 74 
-34 965 1 
-69 931 0 
-33 966 1 
-1 964 35 
-27 972 1 
-23 976 1 
-1 964 35 
-0 921 79 
-0 935 65 
-0 921 79 
-1 969 30 
-19 980 1 
-13 985 2 
-1 978 21 
-13 985 2 
-10 988 2 
-189 811 0 
-0 919 81 
-2 984 14 
-0 909 91 
-15 984 1 
-2 986 12 
-2 984 14 
-127 873 0 
-0 928 72 
-13 986 1 
-15 983 2 
-12 986 2 
-2 984 14 
-1 978 21 
-2 988 10 
-12 986 2 
-2 988 10 
-2 983 15 
-9 989 2 
-10 988 2 
-2 986 12 
-13 985 2 
-10 988 2 
-0 929 71 
-0 912 88 
-0 928 72 
-0 957 43 
-1 977 22 
-0 885 115 
-2 988 10 
-0 862 138 
-0 811 189 
-2 985 13 
-2 986 12 
-0 796 204 
-0 864 136 
-2 989 9 
-3 989 8 
-0 890 110 
-3 988 9 
-0 830 170 
-0 896 104 
-3 988 9 
-95 905 0 
-93 907 0 
-85 915 0 
-73 927 0 
-55 945 0 
-95 905 0 
-101 899 0 
-0 915 85 
-3 989 8 
-2 986 12 
-2 987 11 
-0 906 94 
-0 909 91 
-2 983 15 
-2 987 11 
-0 901 99 
-0 906 94 
-2 987 11 
-2 988 10 
-2 988 10 
-3 988 9 
-2 988 10 
-0 919 81 
-0 908 92 
-0 908 92 
-2 988 10 
-0 902 98 
-2 983 15 
-0 899 101 
-2 987 11 
-0 906 94 
-2 984 14 
-0 901 99 
-0 902 98 
-2 987 11 
-0 898 102 
-0 902 98 
-0 910 90 
-2 989 9 
-2 988 10 
-0 903 97 
-2 988 10 
-2 988 10 
-2 984 14 
-0 898 102 
-2 988 10 
-0 908 92 
-0 899 101 
-0 899 101 
-1 981 18 
-2 987 11 
-2 989 9 
-10 988 2 
-98 902 0 
-9 989 2 
-88 912 0 
-11 987 2 
-11 987 2 
-11 987 2 
-11 987 2 
-106 894 0 
-98 902 0 
-83 917 0 
-11 987 2 
-11 987 2 
-95 905 0 
-89 911 0 
-98 902 0 
-2 988 10 
-3 988 9 
-205 795 0 
-24 975 1 
-27 972 1 
-80 920 0 
-105 895 0 
-21 978 1 
-20 979 1 
-70 930 0 
-18 981 1 
-18 981 1 
-25 974 1 
-638 362 0 
-19 980 1 
-34 965 1 
-36 964 0 
-18 981 1 
-43 957 0 
-836 164 0 
-21 978 1 
-34 966 0 
-46 954 0 
-882 118 0 
-860 140 0 
-0 903 97 
-17 982 1 
-0 920 80 
-0 888 112 
-0 891 109 
-0 940 60 
-0 931 69 
-0 929 71 
-0 948 52 
-55 945 0 
-47 953 0 
-19 980 1 
-25 974 1 
-18 980 2 
-0 903 97 
-19 979 2 
-18 980 2 
-0 935 65 
-0 913 87 
-26 973 1 
-0 893 107 
-21 977 2 
-18 980 2 
-22 977 1 
-0 940 60 
-1 983 16 
-1 977 22 
-67 933 0 
-2 981 17 
-1 978 21 
-1 980 19 
-64 936 0 
-2 981 17 
-61 939 0 
-1 980 19 
-59 941 0 
-10 988 2 
-11 987 2 
-57 943 0 
-59 941 0 
-65 935 0 
-55 945 0 
-53 947 0 
-57 943 0 
-52 948 0 
-1 982 17 
-56 944 0 
-52 948 0 
-8 989 3 
-1 977 22 
-0 907 93 
-78 922 0 
-64 936 0 
-68 932 0 
-87 913 0 
-40 960 0 
-0 920 80 
-0 944 56 
-0 921 79 
-0 857 143 
-0 953 47 
-47 953 0 
-96 904 0 
-60 940 0 
-0 965 35 
-1 972 27 
-56 944 0 
-58 942 0 
-1 969 30 
-0 949 51 
-0 961 39 
-0 737 263 
-1 972 27 
-0 800 200 
-52 948 0 
-35 965 0 
-50 950 0 
-29 970 1 
-46 954 0 
-233 767 0 
-149 851 0 
-193 807 0 
-0 952 48 
-0 900 100 
-0 966 34 
-0 898 102 
-0 966 34 
-0 865 135 
-0 964 36 
-0 777 223 
-0 823 177 
-0 962 38 
-0 818 182 
-0 897 103 
-0 777 223 
-0 735 265 
-0 801 199 
-0 958 42 
-0 732 268 
-0 686 314 
-0 952 48 
-0 945 55 
-0 774 226 
-0 960 40 
-0 952 48 
-0 952 48 
-0 953 47 
-0 624 376 
-0 796 204 
-0 949 51 
-0 946 54 
-0 947 53 
-0 945 55 
-0 957 43 
-0 897 103 
-0 903 97 
-0 946 54 
-0 960 40 
-0 920 80 
-0 960 40 
-0 932 68 
-0 888 112 
-0 953 47 
-0 954 46 
-0 952 48 
-0 959 41 
-45 955 0 
-35 965 0 
-37 963 0 
-35 965 0 
-33 967 0 
-30 969 1 
-32 967 1 
-43 957 0 
-0 907 93 
-36 964 0 
-0 959 41 
-1 979 20 
-1 968 31 
-38 962 0 
-39 961 0 
-40 960 0 
-36 964 0 
-39 961 0 
-41 959 0 
-55 945 0 
-28 971 1 
-39 961 0 
-0 959 41 
-0 958 42 
-40 960 0 
-0 958 42 
-39 961 0 
-41 959 0 
-42 958 0 
-0 962 38 
-1 982 17 
-38 962 0 
-51 949 0 
-0 963 37 
-44 956 0 
-37 963 0 
-39 961 0 
-51 949 0 
-47 953 0 
-35 965 0 
-33 967 0 
-0 958 42 
-41 959 0 
-41 959 0 
-41 959 0 
-34 966 0 
-43 957 0 
-43 957 0 
-0 964 36 
-34 966 0 
-10 988 2 
-3 990 7 
-0 839 161 
-68 932 0 
-0 933 67 
-89 911 0 
-50 950 0 
-110 890 0 
-90 910 0 
-72 928 0 
-93 907 0 
-71 929 0 
-90 910 0 
-62 938 0 
-0 925 75 
-131 869 0 
-147 853 0 
-0 905 95 
-65 935 0 
-139 861 0 
-97 903 0 
-0 912 88 
-0 920 80 
-75 925 0 
-44 956 0 
-83 917 0 
-0 956 44 
-0 942 58 
-84 916 0 
-95 905 0 
-85 915 0 
-56 944 0 
-95 905 0 
-0 920 80 
-39 961 0 
-126 874 0 
-39 961 0 
-84 916 0 
-199 801 0 
-96 904 0 
-0 914 86 
-89 911 0 
-93 907 0 
-39 961 0 
-0 889 111 
-96 904 0 
-90 910 0 
-0 926 74 
-113 887 0 
-83 917 0 
-0 960 40 
-132 868 0 
-141 859 0 
-0 954 46 
-136 864 0 
-131 869 0 
-213 787 0 
-0 958 42 
-109 891 0 
-96 904 0 
-0 829 171 
-0 888 112 
-77 923 0 
-133 867 0 
-180 820 0 
-0 874 126 
-109 891 0 
-117 883 0 
-0 917 83 
-0 902 98 
-105 895 0 
-42 958 0 
-83 917 0 
-55 945 0 
-0 922 78 
-111 889 0 
-41 959 0 
-117 883 0 
-137 863 0 
-40 960 0 
-0 960 40 
-0 961 39 
-0 961 39 
-0 848 152 
-0 895 105 
-239 761 0 
-79 921 0 
-166 834 0 
-135 865 0 
-95 905 0 
-61 939 0 
-0 955 45 
-0 801 199 
-38 962 0 
-0 902 98 
-126 874 0 
-171 829 0 
-0 891 109 
-129 871 0 
-0 933 67 
-0 927 73 
-172 828 0 
-0 890 110 
-101 899 0 
-86 914 0 
-39 961 0 
-44 956 0 
-42 958 0 
-0 961 39 
-0 883 117 
-0 891 109 
-255 745 0 
-0 864 136 
-108 892 0 
-107 893 0 
-0 877 123 
-87 913 0 
-87 913 0 
-110 890 0 
-0 960 40 
-206 794 0 
-0 935 65 
-111 889 0 
-465 535 0 
-87 913 0 
-231 769 0 
-112 888 0 
-0 948 52 
-80 920 0 
-0 907 93 
-0 963 37 
-50 950 0 
-50 950 0 
-0 896 104 
-35 965 0 
-0 915 85 
-252 748 0 
-0 927 73 
-0 867 133 
-0 848 152 
-0 914 86 
-66 934 0 
-33 966 1 
-50 950 0 
-125 875 0 
-47 953 0 
-0 962 38 
-0 904 96 
-109 891 0 
-93 907 0 
-0 955 45 
-1 971 28 
-77 923 0 
-94 906 0 
-0 915 85 
-0 832 168 
-95 905 0 
-82 918 0 
-0 789 211 
-0 921 79 
-117 883 0 
-0 847 153 
-0 845 155 
-0 939 61 
-0 946 54 
-0 890 110 
-0 902 98 
-533 467 0 
-1 971 28 
-0 917 83 
-0 914 86 
-0 903 97 
-64 936 0 
-87 913 0 
-108 892 0 
-0 938 62 
-1 970 29 
-1 978 21 
-1 970 29 
-1 979 20 
-1 974 25 
-0 965 35 
-0 963 37 
-1 966 33 
-1 976 23 
-1 970 29 
-0 923 77 
-0 910 90 
-0 906 94 
-1 982 17 
-0 928 72 
-0 938 62 
-2 987 11 
-2 987 11 
-0 945 55 
-0 949 51 
-0 928 72 
-0 939 61 
-0 935 65 
-0 936 64 
-65 935 0 
-0 914 86 
-0 944 56 
-27 972 1 
-0 925 75 
-0 531 469 
-0 833 167 
-0 905 95 
-204 796 0 
-0 951 49 
-1 972 27 
-105 895 0 
-1 984 15 
-0 844 156 
-0 888 112 
-99 901 0 
-74 926 0 
-63 937 0 
-197 803 0 
-64 936 0 
-0 955 45 
-160 840 0 
-0 960 40 
-0 912 88 
-167 833 0 
-0 901 99 
-0 943 57 
-39 961 0 
-0 811 189 
-0 797 203 
-234 766 0 
-153 847 0 
-140 860 0 
-117 883 0 
-0 839 161 
-161 839 0 
-91 909 0 
-53 947 0 
-146 854 0 
-168 832 0 
-65 935 0 
-140 860 0 
-216 784 0 
-49 951 0 
-141 859 0 
-48 952 0 
-155 845 0 
-140 860 0 
-39 961 0 
-28 971 1 
-50 950 0 
-95 905 0 
-0 932 68 
-1 973 26 
-177 823 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-254 746 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 962 37    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-183 817 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 843 157   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 967 32    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 837 163   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-233 767 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-165 835 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-665 335 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-123 877 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-26 973 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-24 975 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 926 74    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 834 166   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 974 25    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-272 728 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-198 802 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 974 25    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 979 20    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 980 19    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 905 95    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-63 937 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 989 9
-48 952 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 933 67    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-87 913 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-30 969 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 968 31    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 954 46    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-189 811 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-31 968 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-147 853 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 988 10    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-127 873 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-186 814 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 935 65    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 987 11    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-275 725 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-96 904 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 854 146   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-41 959 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 958 42    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-105 895 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 988 10    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 911 89    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 863 137   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-89 911 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 952 48    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 821 179   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-87 913 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-36 964 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-163 837 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-24 975 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-34 966 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-165 835 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 938 62    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-114 886 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 819 181   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-101 899 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 925 75    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-140 860 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 917 83    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-210 790 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-245 755 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-59 941 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 870 130   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-34 966 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-184 816 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-24 975 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-69 931 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-83 917 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-79 921 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-51 949 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-142 858 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-55 945 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 896 104   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 860 140   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-82 918 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 964 36    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-158 842 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-32 967 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-26 973 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-17 982 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 955 45    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 785 215   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 981 18    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-69 931 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-56 944 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-237 763 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-20 979 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-78 922 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-72 928 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-153 847 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 987 11    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-81 919 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-95 905 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-94 906 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-19 980 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-32 967 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-67 933 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-66 934 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-31 968 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-35 965 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-78 922 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-52 948 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-25 974 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-33 967 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-28 971 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-32 967 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-29 970 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-24 975 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-127 873 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-69 931 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-44 956 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 938 62    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 971 28    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 940 60    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-75 925 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-94 906 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 726 274   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-23 976 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 870 130   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-60 940 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-29 970 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-74 926 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 901 99    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-28 971 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-72 928 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-13 986 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 976 23    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 954 46    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-66 934 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-14 985 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 955 45    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 942 58    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 980 19    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 951 49    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 969 30    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-58 942 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-103 897 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-63 937 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-137 863 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-70 930 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-152 848 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-46 954 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 982 17    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-90 910 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-40 960 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-81 919 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-127 873 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 949 51    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-111 889 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 950 50    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 897 103   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 924 76    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-106 894 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 913 87    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 959 41    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-101 899 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-53 947 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-46 953 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-46 954 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-58 942 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-57 943 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 957 43    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 886 114   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-43 957 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-81 919 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-110 890 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 892 108   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-121 879 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 985 13    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-23 976 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-25 974 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-20 979 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-18 981 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 974 25    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 987 11    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 988 10    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-30 969 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-42 958 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 980 19    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 987 11    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 987 12    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 979 20    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 982 17    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 979 20    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 985 14    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-15 984 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-18 981 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 972 27    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-12 987 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-24 975 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-13 985 2    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 988 10    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-41 959 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-20 979 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 970 29    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 971 28    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 975 24    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-28 971 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 970 29    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-46 954 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 972 27    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 889 111   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 973 26    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-30 969 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 942 58    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-23 976 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-15 984 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-88 912 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 966 34    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 950 50    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 924 76    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 910 90    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-65 935 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-26 973 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 984 15    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-62 938 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-50 950 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-21 978 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-82 918 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-52 948 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-45 955 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 843 157   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-33 967 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-41 959 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-42 957 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-104 896 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-115 885 0   # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-19 980 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 968 31    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 954 46    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 975 24    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 966 33    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-42 958 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-13 986 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-12 986 2    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-13 986 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 943 57    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 976 23    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 968 31    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 961 39    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 970 29    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-25 974 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-37 962 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-47 952 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-16 983 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-2 988 10    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-38 962 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 975 24    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-28 971 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 986 13    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-40 960 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-23 976 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-23 976 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 938 62    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-34 966 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-28 971 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-35 965 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-72 928 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-36 963 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-35 965 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-34 966 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 985 14    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 987 12    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 962 38    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-21 978 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-21 978 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-29 970 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-27 972 1    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 979 20    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 976 23    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 979 20    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-38 962 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-1 970 29    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-0 943 57    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-63 937 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-62 938 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
-57 943 0    # bench 1024 16 28 .epd depth NNUE w/ dev-20230520-df0fb847
+0 865 135   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 977 22    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 967 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 988 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+266 734 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+8 990 2     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+140 860 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 937 63    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 984 15    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+27 972 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+77 923 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+52 948 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 948 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 966 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+50 950 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 962 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+98 902 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 961 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+103 897 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 959 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 951 49    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 954 46    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 987 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 974 25    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 864 136   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 967 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+82 918 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+51 949 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+51 949 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+37 963 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 984 15    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 986 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 988 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 977 22    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 530 470   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 923 77    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+68 932 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+171 829 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+108 892 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 927 73    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 913 87    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 967 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 957 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+75 925 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+47 953 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 864 136   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 916 84    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+88 912 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+119 881 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+47 953 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 953 47    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+97 903 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+122 878 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 806 194   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 861 139   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+145 855 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+173 827 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+150 850 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 920 80    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 735 265   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+52 948 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 911 89    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+223 777 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 796 204   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+113 887 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+222 778 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 832 168   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 911 89    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 931 69    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+79 921 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+203 797 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+197 803 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+163 837 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 910 90    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+130 870 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+71 929 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 870 130   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 955 45    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 955 45    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+126 874 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 928 72    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+93 907 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+79 921 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+70 930 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+54 946 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+57 943 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 948 52    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 940 60    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 931 69    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+96 904 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+76 924 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+71 929 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 940 60    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+59 941 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 769 231   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 757 243   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 833 167   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 862 138   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 760 240   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 794 206   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 848 152   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+114 886 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+106 894 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+120 880 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+126 874 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+142 858 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+107 893 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+146 854 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+109 891 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+90 910 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+124 876 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+115 885 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 909 91    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+70 930 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+76 924 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+77 923 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+67 933 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+83 917 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 985 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+94 906 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+248 752 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 934 66    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 879 121   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 941 59    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 946 54    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+91 909 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+48 952 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 966 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+51 949 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 987 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 967 32    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+57 943 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 987 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+54 946 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+37 963 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 986 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 987 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 960 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+59 941 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+8 990 2     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 977 22    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 987 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 990 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 990 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+4 991 5     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 974 25    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 987 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+8 989 3     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 915 85    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 987 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 967 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+37 963 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 967 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+57 943 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 959 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+76 924 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 964 36    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 946 54    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 919 81    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 966 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+47 953 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 965 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+85 915 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 965 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+116 884 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+93 907 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+79 921 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+120 880 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+92 908 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+106 894 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+101 899 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+107 893 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 903 97    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+92 908 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 927 73    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 948 52    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 889 111   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+54 946 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 927 73    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 986 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 948 52    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 985 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 911 89    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 905 95    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 982 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 983 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 983 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 985 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+79 921 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 954 46    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 983 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+102 898 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+120 880 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+83 917 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 937 63    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 966 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 965 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 956 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 984 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 941 59    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+69 931 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 989 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 989 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+92 908 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 991 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+82 918 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+62 938 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 985 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 967 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+70 930 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 985 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 974 25    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 890 110   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 967 32    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+167 833 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 928 72    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 927 73    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 991 6     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+107 893 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 936 64    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+7 991 2     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 966 33    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 985 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+8 990 2     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+4 990 6     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 928 72    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 943 57    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 955 45    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 945 55    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 985 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+4 990 6     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 988 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 854 146   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 813 187   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 878 122   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 858 142   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 984 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+93 907 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+71 929 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+90 910 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+72 928 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+69 931 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 896 104   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 988 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 985 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 896 104   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 878 122   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 890 110   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 902 98    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 913 87    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 912 88    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 917 83    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 898 102   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 893 107   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 989 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 918 82    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 918 82    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 986 12    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 909 91    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 923 77    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 910 90    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 989 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+7 990 3     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+95 905 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+91 909 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 985 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+105 895 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+99 901 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+92 908 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+132 868 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+56 944 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+138 862 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+220 780 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+638 362 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+858 142 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 901 99    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 929 71    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 874 126   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 810 190   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 945 55    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 933 67    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 951 49    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 941 59    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+80 920 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 981 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 946 54    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 978 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 980 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 885 115   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 979 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 906 94    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 978 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 980 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 845 155   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 983 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 982 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 982 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 982 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 982 16    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 980 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+59 941 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+52 948 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+52 948 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+9 988 3     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+82 918 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+77 923 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 880 120   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 752 248   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+477 523 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+128 872 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+164 836 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+99 901 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+121 879 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 970 29    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 936 64    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 947 53    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 844 156   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 905 95    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+94 906 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+136 864 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+230 770 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+96 904 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 936 64    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 909 91    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 941 59    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 909 91    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 913 87    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 943 57    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 952 48    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 861 139   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 933 67    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 847 153   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 853 147   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 917 83    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 827 173   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 883 117   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 953 47    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 960 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 936 64    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 953 47    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 961 39    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 937 63    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 951 49    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 966 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 830 170   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 966 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 967 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+59 941 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 968 32    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 967 32    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 968 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 966 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 964 36    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+37 963 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 988 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 854 146   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 911 89    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+100 900 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+74 926 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+88 912 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+76 924 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+75 925 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+114 886 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+101 899 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+135 865 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 923 77    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+62 938 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 924 76    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+50 950 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+77 923 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 960 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+106 894 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+117 883 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+76 924 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+127 873 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 910 90    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+129 871 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+48 952 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+107 893 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+121 879 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+135 865 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 861 139   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+97 903 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+90 910 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 856 144   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+101 899 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 892 108   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 919 81    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+91 909 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+109 891 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 955 45    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+155 845 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+230 770 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+252 748 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 894 106   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+100 900 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+124 876 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+240 760 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 903 97    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+122 878 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+115 885 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 920 80    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 920 80    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+90 910 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 931 69    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+113 887 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+115 885 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 862 138   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 892 108   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+287 713 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+88 912 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+98 902 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+109 891 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 946 54    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 770 230   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+48 952 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+112 888 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+353 647 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 905 95    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+103 897 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 924 76    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+217 783 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 910 90    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+84 916 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+121 879 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 924 76    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 889 111   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+228 772 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 892 108   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+134 866 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+90 910 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 924 76    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+113 887 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+96 904 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+181 819 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+260 740 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 918 82    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+80 920 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+426 574 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+227 773 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+257 743 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+93 907 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 948 52    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 925 75    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 423 577   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+665 335 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 926 74    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 880 120   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 898 102   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+99 901 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+72 928 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 964 36    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 933 67    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+109 891 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+113 887 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 971 28    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+80 920 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 920 80    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 821 179   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+72 928 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+141 859 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 729 271   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+94 906 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 878 122   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 748 252   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 916 84    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 890 110   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 906 94    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+370 630 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 895 105   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 915 85    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 851 149   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+89 911 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+98 902 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+103 897 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 938 62    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 856 144   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 895 105   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 921 79    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 960 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 931 69    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 937 63    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 922 78    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 962 38    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 971 28    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 971 28    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 971 28    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 966 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 971 28    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 951 49    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 953 47    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+46 954 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 958 42    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 503 497   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 850 150   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 918 82    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+204 796 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 931 69    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 945 55    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+114 886 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 840 160   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 847 153   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+68 932 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+68 932 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+195 805 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 919 81    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+113 887 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 928 72    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 936 64    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+186 814 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 800 200   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 963 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 881 119   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 775 225   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+197 803 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+147 853 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+144 856 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+85 915 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 918 82    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+139 861 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+72 928 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+157 843 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+132 868 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+227 773 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+238 762 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+48 952 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+83 917 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+155 845 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+232 768 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+101 899 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 968 31    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+194 806 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+323 677 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 967 32    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+140 860 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 774 226   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 819 181   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+164 836 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+62 938 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+955 45 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+147 853 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 906 94    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 905 95    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+250 750 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+169 831 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 984 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 985 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 919 81    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+75 925 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 991 6     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 944 56    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+182 818 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 929 71    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 933 67    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+204 796 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+10 987 3    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+173 827 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+142 858 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+341 659 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 923 77    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+219 781 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+54 946 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 955 45    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+33 967 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 957 43    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+78 922 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 988 9     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 903 97    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 796 204   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+129 871 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 851 149   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+195 805 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 932 68    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+150 850 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+115 885 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 915 85    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+112 888 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 861 139   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+257 743 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 853 147   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+27 972 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+126 874 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+182 818 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+97 903 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 889 111   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 896 104   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+72 928 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 969 30    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+189 811 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 984 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 738 262   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 987 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+81 919 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+243 757 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+67 933 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 992 5     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+104 896 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+77 923 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+25 974 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+27 972 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+95 905 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+45 955 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+63 937 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 945 55    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 960 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+87 913 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 744 256   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 837 163   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 933 67    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+23 976 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+69 931 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+11 987 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 960 40    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+42 958 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+35 965 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 939 61    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 986 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 950 50    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 977 22    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+27 972 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+55 945 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+70 930 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+171 829 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 960 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 982 17    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+66 934 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+30 969 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+105 895 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+148 852 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 942 58    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+95 905 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 912 88    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 934 66    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+248 752 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 912 88    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 954 46    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+86 914 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+107 893 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 955 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+53 947 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 906 94    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 913 87    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+75 925 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+159 841 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 905 95    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+114 886 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+13 986 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+14 985 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+3 990 7     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+36 964 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+38 962 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 986 13    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 990 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 990 8     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+18 981 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 987 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+8 989 3     # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 985 14    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+54 946 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+21 978 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 978 21    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+40 960 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+51 949 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 914 86    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+64 936 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+15 984 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+68 932 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 966 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 965 35    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 946 54    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 948 52    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+61 939 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 980 19    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+39 961 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+70 930 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+69 931 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+60 940 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 869 131   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+52 948 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+115 885 0   # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 949 51    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 981 18    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+26 973 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+17 982 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+19 980 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 964 36    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 965 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 954 46    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 963 37    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+41 959 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+47 953 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+58 942 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+12 986 2    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 988 10    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+31 968 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 979 20    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+29 970 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+32 967 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 959 41    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+28 971 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+27 972 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+47 953 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+65 935 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 965 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+22 977 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+2 987 11    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 966 34    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+16 983 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+20 979 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+24 975 1    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 972 27    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 975 24    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 973 26    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+34 966 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+1 976 23    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+0 956 44    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+43 957 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+44 956 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
+49 951 0    # bench 1024 16 30 .epd depth NNUE w/ dev-20230520-df0fb847
