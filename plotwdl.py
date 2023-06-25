@@ -82,3 +82,5 @@ for move in ["g4", "h4", "Na3", "Nh3", "f3"]:
     data.create_graph(dir="images/")
     data = wdldata(move + "m6", dir="wdl/")
     data.create_graph(dir="images/")
+    data = wdldata(move + "m12", dir="wdl/")
+    data.create_graph(dir="images/")

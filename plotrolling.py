@@ -43,6 +43,11 @@ class polldata:
             for line in f:
                 self.wlm6.append(1000 - int(line.split()[1]))
 
+        self.wlm12 = []  # list of W+L values at leafs minus 12 plies
+        with open(wdldir + move + "m12.wdl") as f:
+            for line in f:
+                self.wlm12.append(1000 - int(line.split()[1]))
+
     def create_graph(self, dir="", suffix=""):
         rollingWidth = 168  # window size to be averaged is 168h = 1week
 
@@ -63,10 +68,16 @@ class polldata:
             ]
             / 10
         )
+        wlm12 = (
+            movingaverage(self.wlm12, rollingWidth)[
+                rollingWidth // 2 : -rollingWidth // 2
+            ]
+            / 10
+        )
 
         fig, ax1 = plt.subplots()
         evalColor, depthColor = "black", "gray"
-        wlColor, wlm6Color = "lightpink", "tab:red"
+        wlColor, wlm6Color, wlm12Color = "lightpink", "tab:red", "mediumorchid"
         deptLineWidth = 0.5
         ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
         plt.setp(
@@ -82,15 +93,21 @@ class polldata:
             date,
             wl,
             color=wlColor,
-            label="SF's W+L at leafs",
+            label="SF's W+L at leafs,",
         )
         ax1.plot(
             date,
             wlm6,
             color=wlm6Color,
-            label="SF's W+L at leafs minus 6 plies",
+            label="at leafs - 6 plies,",
         )
-        ax1.legend(loc="upper center", ncol=2, bbox_to_anchor=(0.5, 1.13))
+        ax1.plot(
+            date,
+            wlm12,
+            color=wlm12Color,
+            label="at leafs - 12 plies.",
+        )
+        ax1.legend(loc="upper center", ncol=3, bbox_to_anchor=(0.5, 1.13))
         ax2 = ax1.twinx()
         ax2.plot(date, eval, color=evalColor)
         ax2.tick_params(axis="y", labelcolor=evalColor)

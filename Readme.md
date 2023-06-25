@@ -12,10 +12,10 @@ position at [chessdb.cn](https://chessdb.cn/queryc_en/).
 
 The polling data and plots are updated daily. In addition, we use 
 [Stockfish](https://github.com/noobpwnftw/Stockfish)'s WDL evaluations
-of cdb's PV leafs, and the positions 6 plies from the end of the PVs, to
+of cdb's PV leafs, and the positions 6 and 12 plies from the end of the PVs, to
 monitor cdb's progress in exploring and evaluating 1. g4 (and the other four
 moves). These evaluations are performed daily for the newly aquired polling
-data, using e.g. the command `stockfish bench 1024 16 28 g4.epd depth NNUE`
+data, using e.g. the command `stockfish bench 1024 16 30 g4.epd depth NNUE`
 for the new PV leafs in `g4.poll`, and then stored in [`g4.wdl`](wdl/g4.wdl).
 The order of the data in `g4.wdl`, and the associated PVs found by Stockfish
 in [`g4_sfpvs.wdl`](wdl/g4_sfpvs.epd), corresponds to the order in `g4.poll`.
@@ -36,7 +36,7 @@ For past version changes of the cdb worker check
 
 ## 1. g4
 
-### Rolling weekly average of cdb's eval and SF's d28 WDL
+### Rolling weekly average of cdb's eval and SF's d30 WDL
 <p align="center"> <img src="images/g4rolling.png?raw=true"> </p>
 
 ### cdb's eval and PV: All time 
@@ -48,17 +48,20 @@ For past version changes of the cdb worker check
 ### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/g4day.png?raw=true"> </p>
 
-### SF's d28 WDL: Leafs in cdb's PVs
+### SF's d30 WDL: Leafs in cdb's PVs
 <p align="center"> <img src="images/g4wdl.png?raw=true"> </p>
 
-### SF's d28 WDL: 6 plies from leafs in cdb's PVs
+### SF's d30 WDL: 6 plies from leafs in cdb's PVs
 <p align="center"> <img src="images/g4m6wdl.png?raw=true"> </p>
+
+### SF's d30 WDL: 12 plies from leafs in cdb's PVs
+<p align="center"> <img src="images/g4m12wdl.png?raw=true"> </p>
 
 ---
 
 ## 1. h4
 
-### Rolling weekly average of cdb's eval and SF's d28 WDL
+### Rolling weekly average of cdb's eval and SF's d30 WDL
 <p align="center"> <img src="images/h4rolling.png?raw=true"> </p>
 
 ### cdb's eval and PV: All time 
@@ -70,17 +73,20 @@ For past version changes of the cdb worker check
 ### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/h4day.png?raw=true"> </p>
 
-### SF's d28 WDL: Leafs in cdb's PVs
+### SF's d30 WDL: Leafs in cdb's PVs
 <p align="center"> <img src="images/h4wdl.png?raw=true"> </p>
 
-### SF's d28 WDL: 6 plies from leafs in cdb's PVs
+### SF's d30 WDL: 6 plies from leafs in cdb's PVs
 <p align="center"> <img src="images/h4m6wdl.png?raw=true"> </p>
+
+### SF's d30 WDL: 12 plies from leafs in cdb's PVs
+<p align="center"> <img src="images/h4m12wdl.png?raw=true"> </p>
 
 ---
 
 ## 1. Na3
 
-### Rolling weekly average of cdb's eval and SF's d28 WDL
+### Rolling weekly average of cdb's eval and SF's d30 WDL
 <p align="center"> <img src="images/Na3rolling.png?raw=true"> </p>
 
 ### cdb's eval and PV: All time 
@@ -92,17 +98,20 @@ For past version changes of the cdb worker check
 ### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/Na3day.png?raw=true"> </p>
 
-### SF's d28 WDL: Leafs in cdb's PVs
+### SF's d30 WDL: Leafs in cdb's PVs
 <p align="center"> <img src="images/Na3wdl.png?raw=true"> </p>
 
-### SF's d28 WDL: 6 plies from leafs in cdb's PVs
+### SF's d30 WDL: 6 plies from leafs in cdb's PVs
 <p align="center"> <img src="images/Na3m6wdl.png?raw=true"> </p>
+
+### SF's d30 WDL: 12 plies from leafs in cdb's PVs
+<p align="center"> <img src="images/Na3m12wdl.png?raw=true"> </p>
 
 ---
 
 ## 1. Nh3
 
-### Rolling weekly average of cdb's eval and SF's d28 WDL
+### Rolling weekly average of cdb's eval and SF's d30 WDL
 <p align="center"> <img src="images/Nh3rolling.png?raw=true"> </p>
 
 ### cdb's eval and PV: All time 
@@ -114,17 +123,20 @@ For past version changes of the cdb worker check
 ### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/Nh3day.png?raw=true"> </p>
 
-### SF's d28 WDL: Leafs in cdb's PVs
+### SF's d30 WDL: Leafs in cdb's PVs
 <p align="center"> <img src="images/Nh3wdl.png?raw=true"> </p>
 
-### SF's d28 WDL: 6 plies from leafs in cdb's PVs
+### SF's d30 WDL: 6 plies from leafs in cdb's PVs
 <p align="center"> <img src="images/Nh3m6wdl.png?raw=true"> </p>
+
+### SF's d30 WDL: 12 plies from leafs in cdb's PVs
+<p align="center"> <img src="images/Nh3m12wdl.png?raw=true"> </p>
 
 ---
 
 ## 1. f3
 
-### Rolling weekly average of cdb's eval and SF's d28 WDL
+### Rolling weekly average of cdb's eval and SF's d30 WDL
 <p align="center"> <img src="images/f3rolling.png?raw=true"> </p>
 
 ### cdb's eval and PV: All time 
@@ -136,11 +148,14 @@ For past version changes of the cdb worker check
 ### cdb's eval and PV: Last 24 hours
 <p align="center"> <img src="images/f3day.png?raw=true"> </p>
 
-### SF's d28 WDL: Leafs in cdb's PVs
+### SF's d30 WDL: Leafs in cdb's PVs
 <p align="center"> <img src="images/f3wdl.png?raw=true"> </p>
 
-### SF's d28 WDL: 6 plies from leafs in cdb's PVs
+### SF's d30 WDL: 6 plies from leafs in cdb's PVs
 <p align="center"> <img src="images/f3m6wdl.png?raw=true"> </p>
+
+### SF's d30 WDL: 12 plies from leafs in cdb's PVs
+<p align="center"> <img src="images/f3m12wdl.png?raw=true"> </p>
 
 ---
 
