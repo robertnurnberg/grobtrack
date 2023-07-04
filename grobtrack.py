@@ -91,6 +91,9 @@ class polldata:
         if evalLineWidth:
             ax1.plot(date, eval, color=evalColor, linewidth=evalLineWidth)
         ax1.tick_params(axis="y", labelcolor=evalColor)
+        # hack to avoid fractional y ticks
+        if min(eval) == max(eval):
+            ax1.set_ylim([eval[0] - 1.1, eval[0] + 1.1])
         ax1.yaxis.set_major_locator(MaxNLocator(integer=True))
         ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m-%d"))
         plt.setp(
