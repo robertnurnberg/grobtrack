@@ -1699,3 +1699,5 @@
 168 832 0   # bench 1024 16 30 .epd depth NNUE w/ sf 16
 48 952 0    # bench 1024 16 30 .epd depth NNUE w/ sf 16
 48 952 0    # bench 1024 16 30 .epd depth NNUE w/ sf 16
+82 918 0    # bench 1024 16 30 .epd depth NNUE w/ sf 16
+95 905 0    # bench 1024 16 30 .epd depth NNUE w/ sf 16
