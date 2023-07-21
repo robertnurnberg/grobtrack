@@ -66,9 +66,9 @@ class polldata:
             depth.append(len(pv))
 
         fig, ax1 = plt.subplots()
-        evalColor, depthColor = "black", "gray"
+        evalColor, depthColor, alpha = "black", "gray", 1
         if len(date) >= 1100:
-            evalDotSize, depthDotSize = 2, 0.5
+            evalDotSize, depthDotSize, alpha = 2, 0.5, 0.5
             evalLineWidth, deptLineWidth = 0, 0
         elif len(date) >= 800:
             evalDotSize, depthDotSize = 3, 1
@@ -87,7 +87,8 @@ class polldata:
             evalLineWidth, deptLineWidth = 1.5, 0.75
         ax1.set_ylabel("eval", color=evalColor)
         cmap = cm.get_cmap(cmapName, len(self.uniquePVs))
-        scat = ax1.scatter(date, eval, c=colorId, s=evalDotSize, cmap=cmap)
+        scat = ax1.scatter(date, eval, c=colorId, s=evalDotSize, cmap=cmap, alpha=alpha)
+        ax1.grid(alpha=0.4, linewidth=0.5)
         if evalLineWidth:
             ax1.plot(date, eval, color=evalColor, linewidth=evalLineWidth)
         ax1.tick_params(axis="y", labelcolor=evalColor)
