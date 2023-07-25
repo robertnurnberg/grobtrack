@@ -147,7 +147,8 @@ class polldata:
             )
 
         ax1.plot([], [], " ", label=f"1. {self.move}")
-        ax1.legend(handletextpad=0, handlelength=0)
+        loc = "lower left" if self.move == "g4" else "best"
+        ax1.legend(handletextpad=0, handlelength=0, loc=loc)
         plt.savefig(dir + self.move + suffix + ".png", dpi=300)
 
 
