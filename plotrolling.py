@@ -116,7 +116,8 @@ class polldata:
         ax2.tick_params(axis="y", labelcolor=evalColor)
         ax2.yaxis.set_major_locator(MaxNLocator(integer=True))
         ax2.plot([], [], " ", label=f"1. {self.move}")
-        ax2.legend(handletextpad=0, handlelength=0)
+        loc = "upper left" if self.move == "g4" else "best"
+        ax2.legend(handletextpad=0, handlelength=0, loc=loc)
         ybox1 = TextArea(
             "cdb's eval",
             textprops=dict(
