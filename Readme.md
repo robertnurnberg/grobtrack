@@ -29,7 +29,9 @@ in [`g4_sfpvs.wdl`](wdl/g4_sfpvs.epd), corresponds to the order in `g4.poll`.
 
 <sub>
 For past version changes of the cdb worker check
-<a href = https://github.com/noobpwnftw/Stockfish/commits/siever>here</a>.
+<a href = "https://github.com/noobpwnftw/Stockfish/commits/siever">here</a>.
+<a href = "https://github.com/noobpwnftw/chessdb/commit/3d1ff4660c761193ed4479346ef11a06912ac66f">Stable</a>
+PV polling in place since 2023-08-24.
 </sub>
 
 ---
