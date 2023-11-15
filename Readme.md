@@ -18,7 +18,10 @@ moves). These evaluations are performed daily for the newly aquired polling
 data, using e.g. the command `stockfish bench 1024 16 30 g4.epd depth NNUE`
 for the new PV leafs in `g4.poll`, and then stored in [`g4.wdl`](wdl/g4.wdl).
 The order of the data in `g4.wdl`, and the associated PVs found by Stockfish
-in [`g4_sfpvs.wdl`](wdl/g4_sfpvs.epd), corresponds to the order in `g4.poll`.
+in [`g4_sfpvs.epd`](wdl/g4_sfpvs.epd), 
+[`g4m6_sfpvs.epd`](wdl/g4m6_sfpvs.epd) and
+[`g4m12_sfpvs.epd`](wdl/g4m12_sfpvs.epd), respectively,
+corresponds to the order in `g4.poll`.
 
 ## Quick links
 * [1. g4](#1-g4)
