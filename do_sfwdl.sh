@@ -71,6 +71,8 @@ for m in g4 h4 Na3 Nh3 f3; do
             cat "$fname"_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' | sed 's/$/   /' | sed 's/.\{11\}/& # bench '"$bench"' .epd depth NNUE w\/ sf '"$sfversion"'/' | sed 's/ *$//' >>"$fname".wdl
             # save SF's last depth PV forever
             cat "$fname"_sf.out | grep -B1 bestmove | grep -o ' pv [a-z0-9 ]*' | sed 's/pv//' >"$fname".pvs && paste -d "" "$fname".epd "$fname".pvs >>"$fname"_sfpvs.epd
+            # save SF's scores for 24h
+            cat "$fname"_sf.out | grep -B1 bestmove | grep -o ' score [a-z0-9 -]*' | sed 's/wdl.*pv/pv/' >"$fname".pvs && paste -d "" "$fname".epd "$fname".pvs >"$fname"_sfscores.epd
         fi
     done
 done
