@@ -73,6 +73,8 @@ for m in g4 h4 Na3 Nh3 f3; do
             cat "$fname"_sf.out | grep -B1 bestmove | grep -o ' pv [a-z0-9 ]*' | sed 's/pv//' >"$fname".pvs && paste -d "" "$fname".epd "$fname".pvs >>"$fname"_sfpvs.epd
             # save SF's scores for 24h
             cat "$fname"_sf.out | grep -B1 bestmove | grep -o ' score [a-z0-9 -]*' | sed 's/wdl.*pv/pv/' >"$fname".pvs && paste -d "" "$fname".epd "$fname".pvs >"$fname"_sfscores.epd
+            # save PVs leading to mate forever
+            cat "$fname"_sfscores.epd | grep mate | sed 's/score.*pv//' >>"$fname"_sfmates.epd
         fi
     done
 done
