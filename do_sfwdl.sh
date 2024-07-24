@@ -95,19 +95,19 @@ git push origin main >&pushwdl.log
 
 echo "wdl stuff ended at: " $(date)
 
-#if [[ $wdls -gt 0 ]]; then
-#    echo "Finally, starting shallow cdbsearches along all of SF's newly found PVs ..."
-#    cd wdl
-#    echo -n "" >cdbbulk.epd
-#    for m in g4 h4 Na3 Nh3 f3; do
-#        tail "$m"_sfpvs.epd -n "$wdls" >>cdbbulk.epd
-#        tail "$m"m6_sfpvs.epd -n "$wdls" >>cdbbulk.epd
-#        tail "$m"m12_sfpvs.epd -n "$wdls" >>cdbbulk.epd
-#    done
-#
-#    #  python3 ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -28 --shuffle --bulkConcurrency 48 --concurrency 24 --depthLimit 2 --evalDecay 2 --user rob >& cdbbulk.log
-#    python3 ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -30 --shuffle --bulkConcurrency 16 --depthLimit 1 --user rob >&cdbbulk.log
-#
-#    cd ..
-#    echo "ended at: " $(date)
-#fi
+if [[ $wdls -gt 0 ]]; then
+    echo "Finally, starting shallow cdbsearches along all of SF's newly found PVs ..."
+    cd wdl
+    echo -n "" >cdbbulk.epd
+    for m in g4 h4 Na3 Nh3 f3; do
+        tail "$m"_sfpvs.epd -n "$wdls" >>cdbbulk.epd
+        tail "$m"m6_sfpvs.epd -n "$wdls" >>cdbbulk.epd
+        tail "$m"m12_sfpvs.epd -n "$wdls" >>cdbbulk.epd
+    done
+
+    #  python3 ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -28 --shuffle --bulkConcurrency 48 --concurrency 24 --depthLimit 2 --evalDecay 2 --user rob >& cdbbulk.log
+    python3 ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -30 --shuffle --bulkConcurrency 16 --depthLimit 1 --user rob >&cdbbulk.log
+
+    cd ..
+    echo "ended at: " $(date)
+fi
