@@ -32,7 +32,7 @@ if [[ ! -e stockfish ]]; then
 fi
 sfversion=$(./stockfish quit | sed "s/Stockfish //" | sed "s/ by.*//")
 bench="1024 16 30"
-echo "Will use \"bench $bench .epd depth NNUE\" w/ sf $sfversion."
+echo "Will use \"bench $bench .epd depth\" w/ sf $sfversion."
 cd ../../wdl
 
 for m in g4 h4 Na3 Nh3 f3; do
@@ -66,9 +66,9 @@ for m in g4 h4 Na3 Nh3 f3; do
         if [[ $wdls -gt 0 ]]; then
             echo "Computing the missing $wdls wdl values ..."
             cat ../"$m".poll | sed '/^$/d' | cut -d'-' -f5- | cut -c2- | awk -v ply="$ply" '{for(i=1;i<=NF-ply;i++) {printf(" %s",$i)}; printf("\n")}' | tail -n $wdls | awk -v uci="$uci" '{print "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves",uci,$0}' >"$fname".epd
-            printf "setoption name UCI_ShowWDL value true\nbench %s %s.epd depth NNUE\n" "$bench" "$fname" | ../Stockfish/src/stockfish >&"$fname"_sf.out
+            printf "setoption name UCI_ShowWDL value true\nbench %s %s.epd depth\n" "$bench" "$fname" | ../Stockfish/src/stockfish >&"$fname"_sf.out
             # save WDL output forever
-            cat "$fname"_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' | sed 's/$/   /' | sed 's/.\{11\}/& # bench '"$bench"' .epd depth NNUE w\/ sf '"$sfversion"'/' | sed 's/ *$//' >>"$fname".wdl
+            cat "$fname"_sf.out | grep -B1 bestmove | grep -o 'wdl [0-9 ]* ' | sed 's/wdl //' | sed 's/$/   /' | sed 's/.\{11\}/& # bench '"$bench"' .epd depth w\/ sf '"$sfversion"'/' | sed 's/ *$//' >>"$fname".wdl
             # save SF's last depth PV forever
             cat "$fname"_sf.out | grep -B1 bestmove | grep -o ' pv [a-z0-9 ]*' | sed 's/pv//' >"$fname".pvs && paste -d "" "$fname".epd "$fname".pvs >>"$fname"_sfpvs.epd
             # save SF's scores for 24h
