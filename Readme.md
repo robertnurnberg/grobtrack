@@ -1,6 +1,6 @@
 # Track eval and PV of 1. g4 on chessdb.cn
 
-Track the evaluation and PV of 1. g4, as well as the other four non-zero
+Track the evaluation and PV of 1. g4, as well as the other four (historically) non-zero
 opening moves for white, on [chessdb.cn](https://chessdb.cn/queryc_en/) (cdb).
 
 The raw polling data (e.g. [`g4.poll`](g4.poll)) are obtained with the help of the script
