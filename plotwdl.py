@@ -52,7 +52,7 @@ class wdldata:
         move, _, ply = self.prefix.partition("m")
         fig.suptitle(f"Distribution of W+L likelihood for 1. {move}")
         ax.set_title(
-            f'(WDL data obtained by "stockfish bench {self.bench} {self.prefix}.epd depth NNUE" on {"leaf positions" if ply == "" else f"positions {ply} plies from leafs"} in {move}.poll)',
+            f'(WDL data obtained by "stockfish bench {self.bench} {self.prefix}.epd depth" on {"leaf positions" if ply == "" else f"positions {ply} plies from leafs"} in {move}.poll)',
             fontsize=6,
             family="monospace",
         )
