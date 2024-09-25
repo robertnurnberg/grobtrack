@@ -15,7 +15,7 @@ The polling data and plots are updated daily. In addition, we use
 of cdb's PV leafs, and the positions 6 and 12 plies from the end of the PVs, to
 monitor cdb's progress in exploring and evaluating 1. g4 (and the other four
 moves). These evaluations are performed daily for the newly aquired polling
-data, using e.g. the command `stockfish bench 1024 16 30 g4.epd depth NNUE`
+data, using e.g. the command `stockfish bench 1024 16 30 g4.epd depth`
 for the new PV leafs in `g4.poll`, and then stored in [`g4.wdl`](wdl/g4.wdl).
 The order of the data in `g4.wdl`, and the associated PVs found by Stockfish
 in [`g4_sfpvs.epd`](wdl/g4_sfpvs.epd), 
