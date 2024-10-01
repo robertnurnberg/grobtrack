@@ -29,16 +29,6 @@ class wdldata:
             rangeMax = 500
         fig, ax = plt.subplots()
         ax.hist(
-            dweek,
-            range=(rangeMin, rangeMax),
-            bins=(rangeMax - rangeMin) // 10,
-            density=True,
-            alpha=0.5,
-            color="blue",
-            edgecolor="black",
-            label="last 7 days",
-        )
-        ax.hist(
             self.wl,
             range=(rangeMin, rangeMax),
             bins=(rangeMax - rangeMin) // 10,
@@ -47,6 +37,16 @@ class wdldata:
             color="red",
             edgecolor="yellow",
             label="all time",
+        )
+        ax.hist(
+            dweek,
+            range=(rangeMin, rangeMax),
+            bins=(rangeMax - rangeMin) // 10,
+            density=True,
+            alpha=0.5,
+            color="blue",
+            edgecolor="black",
+            label="last 7 days",
         )
         ax.legend()
         move, _, ply = self.prefix.partition("m")
