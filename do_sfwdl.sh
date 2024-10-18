@@ -106,7 +106,7 @@ if [[ $wdls -gt 0 ]]; then
     done
 
     python ../../cdblib/bulkqueue2cdb.py cdbbulk.epd --plyBegin -30 --user rob >&cdbbulk1.log
-    # python ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -30 --shuffle --bulkConcurrency 16 --depthLimit 1 --user rob >&cdbbulk2.log
+    python ../../cdbexplore/cdbbulksearch.py cdbbulk.epd --plyBegin -30 --shuffle --bulkConcurrency 16 --depthLimit 1 --user rob >&cdbbulk2.log
 
     cd ..
     echo "ended at: " $(date)
