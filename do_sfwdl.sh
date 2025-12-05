@@ -28,7 +28,7 @@ fi
 # re-compile SF if freshly cloned or new commits were pulled
 if [[ ! -e stockfish ]]; then
     echo "Make a new profile-build ... "
-    CXXFLAGS='-march=native' make -j ARCH=x86-64-avxvnni profile-build >&make.log
+    CXXFLAGS='-march=native' make -j profile-build >&make.log
 fi
 sfversion=$(./stockfish quit | sed "s/Stockfish //" | sed "s/ by.*//")
 bench="1024 16 30"
