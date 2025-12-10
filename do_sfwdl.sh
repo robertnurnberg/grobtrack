@@ -2,6 +2,14 @@
 
 # we exit immediately if any command exits with a non-zero status
 set -e
+lock_file="_sfwdl.lock"
+
+if [ -f "$lock_file" ]; then
+    echo "Lock file exists. Exiting."
+    exit 0
+fi
+
+touch $lock_file
 
 if [[ ! -e wdl ]]; then
     mkdir wdl
@@ -111,3 +119,5 @@ if [[ $wdls -gt 0 ]]; then
     cd ..
     echo "ended at: " $(date)
 fi
+
+rm -f $lock_file
