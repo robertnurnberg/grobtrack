@@ -48,30 +48,30 @@ class polldata:
             for line in f:
                 self.wlm12.append(1000 - int(line.split()[1]))
 
-    def create_graph(self, dir="", suffix=""):
+    def create_graph(self, plotStart=0, dir="", suffix=""):
+        date = self.date[plotStart:]
+        eval = self.eval[plotStart:]
+        depth = self.depth[plotStart:]
+        wl = self.wl[plotStart:]
+        wlm6 = self.wlm6[plotStart:]
+        wlm12 = self.wlm12[plotStart:]
+
         rollingWidth = 168  # window size to be averaged is 168h = 1week
 
-        date = self.date[rollingWidth // 2 : -rollingWidth // 2]
-        eval = movingaverage(self.eval, rollingWidth)[
-            rollingWidth // 2 : -rollingWidth // 2
-        ]
-        depth = movingaverage(self.depth, rollingWidth)[
+        date = date[rollingWidth // 2 : -rollingWidth // 2]
+        eval = movingaverage(eval, rollingWidth)[rollingWidth // 2 : -rollingWidth // 2]
+        depth = movingaverage(depth, rollingWidth)[
             rollingWidth // 2 : -rollingWidth // 2
         ]
         wl = (
-            movingaverage(self.wl, rollingWidth)[rollingWidth // 2 : -rollingWidth // 2]
-            / 10
+            movingaverage(wl, rollingWidth)[rollingWidth // 2 : -rollingWidth // 2] / 10
         )
         wlm6 = (
-            movingaverage(self.wlm6, rollingWidth)[
-                rollingWidth // 2 : -rollingWidth // 2
-            ]
+            movingaverage(wlm6, rollingWidth)[rollingWidth // 2 : -rollingWidth // 2]
             / 10
         )
         wlm12 = (
-            movingaverage(self.wlm12, rollingWidth)[
-                rollingWidth // 2 : -rollingWidth // 2
-            ]
+            movingaverage(wlm12, rollingWidth)[rollingWidth // 2 : -rollingWidth // 2]
             / 10
         )
 
@@ -170,4 +170,4 @@ class polldata:
 
 for move in ["g4", "h4", "Na3", "Nh3", "f3"]:
     data = polldata(move)
-    data.create_graph(dir="images/")
+    data.create_graph(dir="images/", plotStart=0)
