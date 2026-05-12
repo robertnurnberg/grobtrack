@@ -60,7 +60,7 @@ PV polling in place since 2023-08-24.
       <img src="images/g4day.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ### SF's d30 WDL
 <table>
@@ -78,7 +78,7 @@ PV polling in place since 2023-08-24.
       <img src="images/g4m12wdl.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ---
 
@@ -103,7 +103,7 @@ PV polling in place since 2023-08-24.
       <img src="images/h4day.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ### SF's d30 WDL
 <table>
@@ -121,7 +121,7 @@ PV polling in place since 2023-08-24.
       <img src="images/h4m12wdl.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ---
 
@@ -146,7 +146,7 @@ PV polling in place since 2023-08-24.
       <img src="images/Na3day.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ### SF's d30 WDL
 <table>
@@ -164,7 +164,7 @@ PV polling in place since 2023-08-24.
       <img src="images/Na3m12wdl.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ---
 
@@ -189,7 +189,7 @@ PV polling in place since 2023-08-24.
       <img src="images/Nh3day.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ### SF's d30 WDL
 <table>
@@ -207,7 +207,7 @@ PV polling in place since 2023-08-24.
       <img src="images/Nh3m12wdl.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ---
 
@@ -232,7 +232,7 @@ PV polling in place since 2023-08-24.
       <img src="images/f3day.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ### SF's d30 WDL
 <table>
@@ -250,6 +250,6 @@ PV polling in place since 2023-08-24.
       <img src="images/f3m12wdl.png?raw=true" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
 ---
