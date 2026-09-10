@@ -19,24 +19,44 @@ echo "started at: " $(date)
 
 # clone noob's SF fork if needed
 if [[ ! -e Stockfish ]]; then
-    git clone https://github.com/noobpwnftw/Stockfish.git
+    if ! git clone https://github.com/noobpwnftw/Stockfish.git; then
+        echo "Error: Could not clone Stockfish. Aborting."
+        rm -f $lock_file
+        exit 1
+    fi
 fi
 
 # check for new commits and pull if needed
 cd Stockfish/src
-git checkout master >&checkout.log
-git fetch origin >&fetch.log
-reslog=$(git log HEAD..origin/master --oneline)
-if [[ "${reslog}" != "" ]]; then
-    echo "Merging new commits and making clean ... "
-    git merge origin/master >&merge.log
-    make clean >&clean.log
+github_ok=1
+git checkout master >&checkout.log || github_ok=0
+if [[ $github_ok -eq 1 ]]; then
+    git fetch origin >&fetch.log || github_ok=0
+fi
+
+if [[ $github_ok -eq 0 ]]; then
+    echo "Warning: Could not reach github. Using existing Stockfish binary."
+else
+    reslog=$(git log HEAD..origin/master --oneline)
+    if [[ "${reslog}" != "" ]]; then
+        echo "Merging new commits and making clean ... "
+        if git merge origin/master >&merge.log && make clean >&clean.log; then
+            :
+        else
+            echo "Warning: Merge or clean failed. Using existing binary."
+        fi
+    fi
 fi
 
 # re-compile SF if freshly cloned or new commits were pulled
 if [[ ! -e stockfish ]]; then
     echo "Make a new profile-build ... "
-    CXXFLAGS='-march=native' make -j profile-build >&make.log
+    if ! CXXFLAGS='-march=native' make -j profile-build >&make.log; then
+        echo "Error: Build failed. Aborting."
+        cd ../..
+        rm -f $lock_file
+        exit 1
+    fi
 fi
 sfversion=$(./stockfish quit | sed "s/Stockfish //" | sed "s/ by.*//")
 bench="1024 16 30"
@@ -99,7 +119,9 @@ for m in g4 h4 Na3 Nh3 f3; do
 done
 
 git diff --staged --quiet || git commit -m "update wdl data and plots"
-git push origin main >&pushwdl.log
+if ! git push origin main >&pushwdl.log; then
+    echo "Warning: git push failed. Commit will be pushed on a future successful run."
+fi
 
 echo "wdl stuff ended at: " $(date)
 
