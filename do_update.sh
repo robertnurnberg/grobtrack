@@ -14,4 +14,5 @@ done
 git diff --staged --quiet || git commit -m "update poll data and plots"
 git push origin main >&push.log
 
-nice ./do_sfwdl.sh >&sfwdl.log
+LOG=sfwdl.log.$(date +%Y%m%d)
+nice ./do_sfwdl.sh >& "$LOG" ; tail "$LOG"

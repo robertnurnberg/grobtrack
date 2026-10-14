@@ -17,9 +17,9 @@ fi
 
 echo "started at: " $(date)
 
-# clone noob's SF fork if needed
+# clone my SF fork if needed
 if [[ ! -e Stockfish ]]; then
-    if ! git clone https://github.com/noobpwnftw/Stockfish.git; then
+    if ! git clone https://github.com/robertnurnberg/Stockfish; then
         echo "Error: Could not clone Stockfish. Aborting."
         rm -f $lock_file
         exit 1
@@ -29,7 +29,7 @@ fi
 # check for new commits and pull if needed
 cd Stockfish/src
 github_ok=1
-git checkout master >&checkout.log || github_ok=0
+git checkout grobtrack >&checkout.log || github_ok=0
 if [[ $github_ok -eq 1 ]]; then
     git fetch origin >&fetch.log || github_ok=0
 fi
@@ -40,7 +40,7 @@ else
     reslog=$(git log HEAD..origin/master --oneline)
     if [[ "${reslog}" != "" ]]; then
         echo "Merging new commits and making clean ... "
-        if git merge origin/master >&merge.log && make clean >&clean.log; then
+        if git merge origin/grobtrack >&merge.log && make clean >&clean.log; then
             :
         else
             echo "Warning: Merge or clean failed. Using existing binary."
